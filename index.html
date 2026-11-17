@@ -349,7 +349,7 @@ function close(said, exp) {
   if (b.length >= 3 && (a.includes(b) || snd(a).includes(snd(b)))) return true;
   if (said.split(' ').some(w => wordOk(w, exp))) return true;
   if (b.length <= 2) return false;
-  return ratio(a, b) >= 0.7 || ratio(snd(a), snd(b)) >= 0.75;
+  return ratio(a, b) >= 0.7 || (snd(b).length >= 5 && ratio(snd(a), snd(b)) >= 0.75);
 }
 function expectedOptions(c, lang) {
   if (lang === 'en') return c.en.split(/\/|;/).map(normEn).filter(Boolean).concat([normEn(c.en)]);
