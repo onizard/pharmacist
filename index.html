@@ -312,12 +312,19 @@ function lev(a, b) {
   for (let i = 1; i <= m; i++) { const cur = [i]; for (let j = 1; j <= n; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); prev = cur; }
   return prev[n];
 }
-const snd = w => w;
+// anglais : on compare aussi « à l'oreille », car la reconnaissance confond les mots qui se prononcent pareil
+// (dry eyes / dry ice, write / right…) : on garde les consonnes et chaque groupe de voyelles devient un seul son
+const enSound = w => w.replace(/^kn/, 'n').replace(/^wr/, 'r').replace(/mb$/, 'm').replace(/ph/g, 'f').replace(/gh/g, '')
+  .replace(/ck/g, 'k').replace(/c(?=[eiy])/g, 's').replace(/c/g, 'k').replace(/q/g, 'k').replace(/x/g, 'ks').replace(/z/g, 's')
+  .replace(/(.{2,})e$/, '$1').replace(/[aeiouy]+/g, 'a').replace(/(.)\1+/g, '$1');
+let sndLang = 'fr';
+const snd = w => (sndLang === 'en' ? enSound(w) : w);
 const ratio = (a, b) => 1 - lev(a, b) / Math.max(a.length, b.length, 1);
 function wordOk(w, e) {
   if (w === e || snd(w) === snd(e)) return true;
   if (e.length <= 2) return false;
-  return ratio(w, e) >= 0.67 || ratio(snd(w), snd(e)) >= 0.75;
+  const sw = snd(w), se = snd(e);
+  return ratio(w, e) >= 0.67 || (se.length >= 5 && ratio(sw, se) >= 0.75);
 }
 function close(said, exp) {
   if (!said || !exp) return false;
@@ -351,6 +358,7 @@ function expectedOptions(c, lang) {
 }
 function judge(alts, c, lang) {
   const opts = expectedOptions(c, lang);
+  sndLang = lang;
   for (const raw of alts) {
     const s = lang === 'en' ? normEn(raw) : normFr(raw);
     if (opts.some(o => close(s, o))) return true;
