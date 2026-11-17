@@ -1,0 +1,237 @@
+# adjectifs | Adjectifs et descriptions
+malade | ill / sick
+en bonne santé | healthy / in good health
+fatigué | tired
+épuisé | exhausted / worn out
+faible | weak
+fort | strong
+douloureux | painful / sore
+sensible | sensitive / tender
+enflé | swollen
+gonflé | swollen / puffy
+rouge | red
+pâle | pale
+chaud | hot / warm
+froid | cold
+sec | dry
+gras | greasy / oily / fatty
+humide | damp / moist
+irrité | irritated
+infecté | infected
+contagieux | contagious / infectious
+aigu | acute / sharp
+chronique | chronic
+grave | serious / severe
+bénin | benign / mild / minor
+léger | mild / light / slight
+sévère | severe
+urgent | urgent
+stérile | sterile
+jetable | disposable
+périmé | expired / out of date
+efficace | effective
+naturel | natural
+allergique | allergic
+enceinte | pregnant
+diabétique | diabetic
+asthmatique | asthmatic
+vacciné | vaccinated
+immunodéprimé | immunocompromised / immunosuppressed
+déshydraté | dehydrated
+constipé | constipated
+nauséeux | nauseous / queasy
+étourdi | dizzy / light-headed
+essoufflé | out of breath / breathless
+enrhumé | with a cold / bunged up
+fiévreux | feverish
+somnolent | drowsy / sleepy
+anxieux | anxious
+déprimé | depressed / low
+stressé | stressed
+inquiet | worried
+soulagé | relieved
+guéri | cured / healed / better
+remboursable | reimbursable / refundable
+disponible | available
+indisponible | unavailable
+en rupture | out of stock
+sans ordonnance | over the counter / without a prescription
+sur ordonnance | on prescription / prescription-only
+générique | generic
+buvable | oral / drinkable
+injectable | injectable
+sécable | scored / splittable
+effervescent | effervescent / soluble
+gastro-résistant | gastro-resistant / enteric-coated
+à libération prolongée | extended-release / slow-release / prolonged-release
+fragile | fragile / delicate
+âgé | elderly / old
+dépendant | dependent
+autonome | independent / self-sufficient
+handicapé | disabled
+pharmaceutique | pharmaceutical
+médical | medical
+cutané | skin / cutaneous
+oral | oral
+nasal | nasal
+auriculaire | ear / auricular
+ophtalmique | eye / ophthalmic
+vaginal | vaginal
+rectal | rectal
+intramusculaire | intramuscular
+sous-cutané | subcutaneous / under the skin
+intraveineux | intravenous
+
+# temps | Temps, fréquence et quantités
+aujourd'hui | today
+hier | yesterday
+avant-hier | the day before yesterday
+demain | tomorrow
+ce matin | this morning
+cet après-midi | this afternoon
+ce soir | this evening / tonight
+cette nuit | tonight / last night
+la nuit dernière | last night
+depuis hier soir | since last night
+depuis deux jours | for two days / for the past two days
+depuis une semaine | for a week
+depuis longtemps | for a long time
+il y a une heure | an hour ago
+dans une heure | in an hour
+tout de suite | right away / immediately
+plus tard | later
+bientôt | soon
+le plus tôt possible | as soon as possible
+une fois | once
+deux fois | twice
+trois fois | three times
+plusieurs fois | several times
+de temps en temps | from time to time / now and then
+souvent | often
+rarement | rarely / seldom
+jamais | never
+toujours | always
+tous les jours | every day / daily
+un jour sur deux | every other day
+chaque semaine | every week / weekly
+une fois par semaine | once a week
+une fois par mois | once a month
+la semaine prochaine | next week
+le mois prochain | next month
+la journée | the day / during the day
+la nuit | the night / at night
+le lendemain | the next day / the following day
+la veille | the day before / the previous day
+au réveil | when you wake up / on waking
+avant de dormir | before going to sleep / before bed
+une demi-heure | half an hour
+un quart d'heure | a quarter of an hour / fifteen minutes
+quarante-huit heures | forty-eight hours
+vingt-quatre heures sur vingt-quatre | twenty-four hours a day / round the clock
+un peu | a little / a bit
+beaucoup | a lot / much
+trop | too much
+pas assez | not enough
+la moitié | half
+le quart | a quarter
+le double | double / twice as much
+une poignée | a handful
+une goutte | a drop
+une boîte | a box
+deux boîtes | two boxes
+un milligramme | a milligram
+un microgramme | a microgram
+un millilitre | a millilitre / a milliliter
+un litre | a litre / a liter
+un kilo | a kilo / a kilogram
+cent grammes | a hundred grams
+le pourcentage | the percentage
+le degré | the degree
+trente-sept degrés | thirty-seven degrees
+quarante de fièvre | a temperature of forty / a fever of forty degrees
+
+# voyage | Santé en voyage
+je suis en vacances | I'm on holiday / I'm on vacation
+je suis de passage | I'm just passing through / I'm visiting
+je rentre chez moi dans trois jours | I'm going home in three days
+j'ai besoin de mon traitement | I need my medication
+je n'ai pas d'ordonnance française | I don't have a French prescription
+j'ai une ordonnance de mon pays | I have a prescription from my country
+mon médecin est à l'étranger | my doctor is abroad
+pouvez-vous appeler mon médecin ? | can you call my doctor?
+trouvez un médecin qui parle anglais | find an English-speaking doctor
+je cherche un médecin anglophone | I'm looking for an English-speaking doctor
+y a-t-il un médecin près d'ici ? | is there a doctor near here? / is there a doctor nearby?
+où est l'hôpital ? | where is the hospital?
+où est la pharmacie la plus proche ? | where is the nearest pharmacy?
+c'est loin ? | is it far?
+c'est à cinq minutes à pied | it's a five-minute walk
+prenez un taxi | take a taxi
+le coup de soleil à la plage | sunburn at the beach
+la piqûre de moustique | the mosquito bite
+la piqûre de méduse | the jellyfish sting
+l'eau de mer | seawater
+la piscine | the swimming pool
+l'altitude | altitude
+le mal des montagnes | altitude sickness / mountain sickness
+l'avion | the plane / the aeroplane / the airplane
+le long vol | the long flight / the long-haul flight
+les bas de contention pour l'avion | flight socks / compression socks for flying
+la thrombose du voyageur | traveller's thrombosis / economy class syndrome / DVT
+les oreilles qui se bouchent en avion | ears popping on a plane / blocked ears on a plane
+le mal de mer | seasickness
+la croisière | the cruise
+le bateau | the boat
+la voiture | the car
+le camping | camping / the campsite
+la randonnée | hiking / the hike
+les ampoules aux pieds | blisters on the feet
+le pansement seconde peau | the blister plaster / the hydrocolloid plaster
+la crème anti-frottements | the anti-chafing cream / the anti-friction balm
+l'eau potable | drinking water
+les pastilles de purification d'eau | water purification tablets
+la turista | traveller's diarrhoea
+la trousse de voyage | the travel kit
+le décalage horaire et la pilule | the time difference and the pill
+la carte européenne d'assurance maladie | the European Health Insurance Card / the EHIC
+gardez vos factures pour votre assurance | keep your receipts for your insurance
+le rapatriement | repatriation / being flown home
+l'ambassade | the embassy
+le consulat | the consulate
+
+# allergies | Allergies
+je suis allergique | I'm allergic
+je suis allergique au pollen | I'm allergic to pollen
+je suis allergique aux arachides | I'm allergic to peanuts
+je suis allergique aux fruits à coque | I'm allergic to nuts / I'm allergic to tree nuts
+je suis allergique aux chats | I'm allergic to cats
+je suis allergique au latex | I'm allergic to latex
+je suis allergique à l'aspirine | I'm allergic to aspirin
+je suis allergique aux antibiotiques | I'm allergic to antibiotics
+je n'ai pas d'allergie connue | I have no known allergies
+le rhume des foins | hay fever
+la conjonctivite allergique | allergic conjunctivitis
+la rhinite allergique | allergic rhinitis / hay fever
+les yeux qui grattent | itchy eyes
+les éternuements en série | sneezing fits / bouts of sneezing
+l'antihistaminique qui ne fait pas dormir | the non-drowsy antihistamine
+prenez-le avant l'exposition | take it before exposure
+la désensibilisation | allergy desensitisation / immunotherapy
+le test allergique | the allergy test
+les allergènes | allergens
+les traces de fruits à coque | traces of nuts / may contain nuts
+l'étiquette | the label
+lisez bien les étiquettes | read the labels carefully
+la réaction allergique grave | a severe allergic reaction
+le gonflement du visage | swelling of the face
+le gonflement de la gorge | swelling of the throat
+la difficulté à respirer | difficulty breathing
+utilisez votre stylo d'adrénaline | use your adrenaline pen / use your EpiPen
+injectez dans la cuisse | inject into the thigh
+puis appelez le 15 | then call 15 / then call an ambulance
+la carte d'allergique | the allergy card / the allergy alert card
+le bracelet d'alerte médicale | the medical alert bracelet
+l'allergie de contact | contact allergy
+l'allergie au nickel | nickel allergy
+l'allergie au soleil | sun allergy / polymorphic light eruption
+la crème pour l'allergie au soleil | the sun allergy cream

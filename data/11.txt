@@ -1,0 +1,149 @@
+# pros | Professionnels et lieux de santé
+le médecin | the doctor
+le médecin généraliste | the GP / the general practitioner / the family doctor
+le médecin traitant | the regular doctor / the GP / the family doctor
+le spécialiste | the specialist
+le cardiologue | the cardiologist
+le dermatologue | the dermatologist
+le pneumologue | the lung specialist / the pulmonologist
+le gastro-entérologue | the gastroenterologist
+le neurologue | the neurologist
+le psychiatre | the psychiatrist
+le psychologue | the psychologist
+le rhumatologue | the rheumatologist
+l'endocrinologue | the endocrinologist
+l'urologue | the urologist
+le néphrologue | the nephrologist / the kidney specialist
+l'oncologue | the oncologist / the cancer specialist
+l'allergologue | the allergist
+le chirurgien | the surgeon
+l'anesthésiste | the anaesthetist / the anesthesiologist
+le radiologue | the radiologist
+le biologiste | the lab doctor / the clinical biologist
+l'infirmier | the nurse
+l'infirmière | the nurse
+l'aide-soignant | the care assistant / the nursing assistant
+le kinésithérapeute | the physiotherapist / the physical therapist / the physio
+l'ostéopathe | the osteopath
+l'orthophoniste | the speech therapist
+l'orthoptiste | the orthoptist
+le diététicien | the dietitian / the dietician
+le nutritionniste | the nutritionist
+le médecin du travail | the occupational health doctor
+le vétérinaire | the vet / the veterinarian
+le pharmacien adjoint | the assistant pharmacist / the associate pharmacist
+le pharmacien titulaire | the pharmacy owner / the head pharmacist
+l'étudiant en pharmacie | the pharmacy student
+l'apprenti | the apprentice
+le laboratoire pharmaceutique | the pharmaceutical company / the drug company
+le délégué médical | the medical sales rep / the medical representative
+le grossiste répartiteur | the wholesaler / the pharmaceutical wholesaler
+le cabinet médical | the doctor's surgery / the doctor's office
+la maison de santé | the health centre / the health center
+le centre de santé | the health centre / the clinic
+la clinique | the private hospital / the clinic
+l'hôpital | the hospital
+le CHU | the university hospital / the teaching hospital
+le laboratoire d'analyses | the medical laboratory / the testing lab
+le centre de radiologie | the X-ray centre / the imaging centre
+le service des urgences | the emergency department / A&E / the ER
+la salle d'attente | the waiting room
+le rendez-vous | the appointment
+prendre rendez-vous | to make an appointment / to book an appointment
+j'ai rendez-vous chez le médecin | I have a doctor's appointment
+annuler un rendez-vous | to cancel an appointment
+la téléconsultation | the online consultation / the video consultation
+la borne de téléconsultation | the telemedicine booth / the teleconsultation kiosk
+vous pouvez faire une téléconsultation ici | you can have an online consultation here
+la consultation | the consultation / the appointment
+le tarif de la consultation | the consultation fee
+le dépassement d'honoraires | the extra fee / the surcharge above the standard rate
+la visite à domicile | the home visit
+le médecin peut venir chez vous | the doctor can come to your home
+l'hospitalisation | hospitalisation / hospitalization / a hospital stay
+il est hospitalisé | he's in hospital / he's been admitted to hospital
+la chambre d'hôpital | the hospital room / the ward
+le service | the ward / the department
+la réanimation | intensive care / the ICU
+le bloc opératoire | the operating theatre / the operating room
+l'opération | the operation / the surgery
+se faire opérer | to have an operation / to have surgery
+l'anesthésie | anaesthesia / anesthesia
+l'anesthésie générale | general anaesthetic / general anesthesia
+l'anesthésie locale | local anaesthetic / local anesthesia
+la sortie de l'hôpital | discharge from hospital / leaving hospital
+le compte rendu | the medical report / the discharge summary
+la lettre du médecin | the doctor's letter / the referral letter
+le certificat médical | the medical certificate / the doctor's note
+l'arrêt de travail | sick leave / a sick note
+je suis en arrêt maladie | I'm on sick leave / I'm off sick
+
+# examens | Examens et analyses
+la prise de sang | the blood test
+l'analyse de sang | the blood test / the blood work
+l'analyse d'urine | the urine test / the urinalysis
+l'analyse de selles | the stool test
+à jeun depuis douze heures | after fasting for twelve hours / fasting for twelve hours
+venez à jeun | come with an empty stomach / don't eat before you come
+les résultats d'analyse | the test results / the lab results
+les résultats sont normaux | the results are normal
+les résultats ne sont pas bons | the results aren't good
+le taux | the level
+le taux de sucre | the blood sugar level
+le taux de cholestérol | the cholesterol level
+le taux de fer | the iron level
+la numération formule sanguine | the full blood count / the complete blood count
+l'hémoglobine glyquée | HbA1c / glycated haemoglobin
+l'INR | the INR / the blood clotting test
+la créatinine | creatinine
+la fonction rénale | kidney function
+les transaminases | liver enzymes
+le bilan thyroïdien | the thyroid test / the thyroid function test
+la CRP | CRP / the inflammation marker
+le bilan sanguin | the blood test / the full blood panel
+la radio | the X-ray
+la radiographie | the X-ray / radiography
+l'échographie | the ultrasound / the ultrasound scan
+le scanner | the CT scan / the scan
+l'IRM | the MRI / the MRI scan
+l'électrocardiogramme | the ECG / the EKG / the electrocardiogram
+l'endoscopie | the endoscopy
+la coloscopie | the colonoscopy
+la fibroscopie | the endoscopy / the gastroscopy
+la biopsie | the biopsy
+le diagnostic | the diagnosis
+le pronostic | the prognosis
+l'ordonnance d'analyses | the lab request form / the test request
+la mesure de la tension | the blood pressure check
+le dépistage auditif | the hearing test
+l'examen de la vue | the eye test / the eye exam
+l'examen clinique | the physical examination / the check-up
+le bilan de santé | the health check / the medical check-up
+la visite médicale | the medical examination / the medical
+l'auscultation | listening to the chest / auscultation
+déshabillez-vous | please undress / take off your clothes
+respirez fort | breathe deeply / take a deep breath
+toussez | cough
+tirez la langue | stick out your tongue
+ouvrez la bouche | open your mouth
+dites « ah » | say "ah"
+allongez-vous sur le dos | lie on your back
+retournez-vous | turn over
+les antécédents médicaux | medical history
+les antécédents familiaux | family history
+le dossier médical | the medical record / the medical file
+le groupe sanguin O positif | blood type O positive
+la transfusion | the blood transfusion
+le don de sang | blood donation
+le donneur | the donor
+la greffe | the transplant
+la dialyse | dialysis
+la rééducation | rehabilitation / physiotherapy
+les séances de kiné | physio sessions / physiotherapy sessions
+la convalescence | convalescence / recovery
+la guérison | recovery / cure
+le traitement de longue durée | the long-term treatment
+le suivi médical | medical follow-up / medical monitoring
+la rechute | the relapse
+la complication | the complication
+les soins palliatifs | palliative care

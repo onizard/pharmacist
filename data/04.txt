@@ -1,0 +1,192 @@
+# ordonnance | Ordonnance et délivrance
+l'ordonnance | the prescription
+une ordonnance médicale | a medical prescription / a doctor's prescription
+le médecin vous a fait une ordonnance ? | did the doctor give you a prescription?
+je ne peux pas lire l'ordonnance | I can't read the prescription
+l'ordonnance n'est plus valable | the prescription is no longer valid / the prescription has expired
+l'ordonnance est valable trois mois | the prescription is valid for three months
+l'ordonnance n'est pas renouvelable | the prescription can't be renewed / it's not a repeat prescription
+le renouvellement d'ordonnance | the repeat prescription / prescription renewal
+une ordonnance étrangère | a foreign prescription
+nous pouvons accepter une ordonnance européenne | we can accept a European prescription
+le médicament n'existe pas en France | this medicine isn't available in France
+voici l'équivalent français | here is the French equivalent
+c'est le même principe actif | it's the same active ingredient
+c'est le même dosage | it's the same strength / it's the same dose
+la marque est différente | the brand is different
+je vous donne le générique | I'll give you the generic
+c'est aussi efficace | it's just as effective
+c'est remboursé | it's reimbursed / it's covered
+ce n'est pas remboursé | it's not reimbursed / it's not covered
+vous devez avancer les frais | you'll have to pay upfront
+vous serez remboursé par votre assurance | you'll be reimbursed by your insurance
+je vous donne la feuille de soins | I'll give you the claim form / here's the treatment form
+la feuille de soins | the claim form / the treatment form
+le tiers payant | direct billing / third-party payment
+la carte Vitale | the Vitale card / the French health insurance card
+la Sécurité sociale | French social security / the national health insurance
+l'assurance maladie | health insurance
+la mutuelle | top-up health insurance / supplementary insurance
+le remboursement | the reimbursement / the refund
+le reste à charge | the out-of-pocket cost
+le prix | the price
+combien ça coûte ? | how much is it? / how much does it cost?
+c'est cher | it's expensive
+c'est pas cher | it's not expensive / it's cheap
+le médecin | the doctor
+le médecin prescripteur | the prescribing doctor / the prescriber
+le nom du médecin | the doctor's name
+le cachet du médecin | the doctor's stamp
+la signature | the signature
+la date | the date
+la délivrance | dispensing
+délivrer un médicament | to dispense a medicine
+je vous prépare votre ordonnance | I'll prepare your prescription / I'll get your prescription ready
+votre ordonnance est prête | your prescription is ready
+il nous manque un produit | we're missing one item / one item is out of stock
+je vous dois un médicament | I owe you one medicine
+je vous fais un bon | I'll give you an IOU / I'll give you a slip
+revenez le chercher demain | come back for it tomorrow / come and pick it up tomorrow
+le médicament est en rupture de stock | the medicine is out of stock
+il y a une rupture nationale | there's a nationwide shortage
+il y a une pénurie | there's a shortage
+je dois appeler votre médecin | I need to call your doctor
+je vais contacter le médecin | I'll contact the doctor
+le médecin a fait une erreur | the doctor made a mistake
+il y a une interaction | there's an interaction
+ce médicament est un stupéfiant | this medicine is a controlled drug / this is a narcotic
+une ordonnance sécurisée | a secure prescription / a controlled-drug prescription
+la quantité prescrite | the prescribed quantity
+pour un mois de traitement | for one month's treatment / a month's supply
+je ne peux vous délivrer qu'un mois | I can only give you one month's supply
+un traitement chronique | a long-term treatment / an ongoing treatment
+un traitement de fond | a maintenance treatment / a long-term treatment
+votre traitement habituel | your usual treatment / your regular medication
+vous avez oublié votre traitement ? | did you forget your medication?
+j'ai oublié mes médicaments | I forgot my medication / I left my medicine at home
+j'ai perdu mon ordonnance | I lost my prescription
+je n'ai plus de médicaments | I've run out of medication / I've run out of my medicine
+je pars en voyage | I'm going on a trip / I'm travelling
+il me faut trois mois de traitement | I need three months' supply
+le dépannage | the emergency supply
+je peux vous dépanner de quelques comprimés | I can give you a few tablets to tide you over
+une boîte de dépannage | an emergency supply box
+l'historique de vos médicaments | your medication history
+le dossier pharmaceutique | the pharmacy record / the pharmaceutical record
+le dossier médical partagé | the shared medical record
+l'ordonnance électronique | the e-prescription / the electronic prescription
+le QR code de l'ordonnance | the prescription QR code
+le médicament sur ordonnance | prescription medicine / prescription-only medicine
+le médicament sans ordonnance | over-the-counter medicine / OTC medicine
+l'automédication | self-medication
+le conseil pharmaceutique | pharmaceutical advice / the pharmacist's advice
+la préparation magistrale | the compounded medicine / the pharmacy-made preparation
+nous allons préparer ce médicament | we'll make up this medicine / we'll compound this medicine
+il faut quarante-huit heures | it takes forty-eight hours / it will take two days
+la délivrance fractionnée | partial dispensing
+la substitution | substitution / generic substitution
+non substituable | do not substitute / no substitution
+le médecin a écrit non substituable | the doctor wrote "do not substitute"
+vous refusez le générique ? | do you refuse the generic? / you don't want the generic?
+le tarif de remboursement | the reimbursement rate
+la franchise médicale | the medical deductible / the co-payment
+le ticket modérateur | the patient co-payment
+l'avance de frais | paying upfront / advance payment
+la facture | the invoice / the bill
+le reçu | the receipt
+une facture détaillée pour mon assurance | an itemised invoice for my insurance
+pouvez-vous me faire une facture en anglais ? | can you give me an invoice in English?
+
+# classes | Classes de médicaments
+l'antidouleur | the painkiller
+l'antalgique | the painkiller / the analgesic
+le paracétamol | paracetamol / acetaminophen
+l'ibuprofène | ibuprofen
+l'aspirine | aspirin
+l'anti-inflammatoire | the anti-inflammatory
+l'anti-inflammatoire non stéroïdien | the non-steroidal anti-inflammatory / the NSAID
+la cortisone | cortisone / steroids
+le corticoïde | the corticosteroid / the steroid
+l'antibiotique | the antibiotic
+les antibiotiques | antibiotics
+l'amoxicilline | amoxicillin
+la pénicilline | penicillin
+l'antiviral | the antiviral
+l'antifongique | the antifungal
+l'antiseptique | the antiseptic
+le désinfectant | the disinfectant
+l'antihistaminique | the antihistamine
+l'antiallergique | the allergy medicine / the antihistamine
+le décongestionnant | the decongestant
+l'antitussif | the cough suppressant
+l'expectorant | the expectorant
+le mucolytique | the mucolytic
+le sirop contre la toux | the cough syrup / the cough medicine
+l'antiacide | the antacid
+l'anti-nauséeux | the anti-nausea medicine / the antiemetic
+l'antidiarrhéique | the antidiarrhoeal / the anti-diarrhea medicine
+le laxatif | the laxative
+le probiotique | the probiotic
+le pansement gastrique | the stomach lining protector / the antacid suspension
+l'inhibiteur de la pompe à protons | the proton pump inhibitor / the PPI
+l'antispasmodique | the antispasmodic
+l'antihypertenseur | the blood pressure medicine / the antihypertensive
+le bêtabloquant | the beta blocker
+le diurétique | the diuretic / the water pill
+l'anticoagulant | the anticoagulant / the blood thinner
+l'antiagrégant plaquettaire | the antiplatelet drug
+la statine | the statin
+l'hypocholestérolémiant | the cholesterol-lowering drug
+l'antidiabétique | the diabetes medicine / the antidiabetic
+l'insuline | insulin
+la metformine | metformin
+l'antidépresseur | the antidepressant
+l'anxiolytique | the anxiety medication / the anxiolytic
+le somnifère | the sleeping pill
+l'hypnotique | the sleeping pill / the hypnotic
+le tranquillisant | the tranquilliser / the tranquilizer
+le neuroleptique | the antipsychotic
+l'antiépileptique | the anti-epileptic / the antiseizure medication
+la morphine | morphine
+l'opioïde | the opioid
+la codéine | codeine
+le tramadol | tramadol
+le relaxant musculaire | the muscle relaxant
+l'hormone thyroïdienne | thyroid hormone
+la levothyroxine | levothyroxine
+la pilule contraceptive | the contraceptive pill
+la pilule du lendemain | the morning-after pill / emergency contraception
+le traitement hormonal | hormone treatment / hormone therapy
+le bronchodilatateur | the bronchodilator
+la ventoline | Ventolin / salbutamol / albuterol
+le vasoconstricteur | the vasoconstrictor
+le collyre antiallergique | the allergy eye drops
+le vermifuge | the dewormer / the worm treatment
+l'antiparasitaire | the antiparasitic
+le traitement antipoux | the head lice treatment
+l'antipaludéen | the antimalarial
+le traitement contre le paludisme | the malaria treatment / antimalarial tablets
+la vitamine | the vitamin
+la vitamine C | vitamin C
+la vitamine D | vitamin D
+le fer | iron
+le magnésium | magnesium
+le zinc | zinc
+le calcium | calcium
+l'acide folique | folic acid
+le complément alimentaire | the food supplement / the dietary supplement
+les oméga trois | omega-3
+le sérum physiologique | saline solution
+la solution hydroalcoolique | hand sanitiser / hand sanitizer
+la solution de réhydratation orale | the oral rehydration solution
+l'homéopathie | homeopathy
+la phytothérapie | herbal medicine
+l'aromathérapie | aromatherapy
+l'huile essentielle | the essential oil
+le substitut nicotinique | the nicotine replacement / the nicotine substitute
+le patch à la nicotine | the nicotine patch
+la gomme à la nicotine | the nicotine gum
+le traitement de substitution | the substitution treatment / opioid substitution therapy
+le médicament de chimiothérapie | the chemotherapy drug
+l'immunosuppresseur | the immunosuppressant
+le biosimilaire | the biosimilar

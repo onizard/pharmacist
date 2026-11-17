@@ -1,0 +1,252 @@
+# symptomes | Symptômes
+j'ai mal à la tête | I have a headache / I've got a headache
+j'ai mal à la gorge | I have a sore throat / I've got a sore throat
+j'ai mal au ventre | I have a stomach ache / I have a tummy ache
+j'ai mal au dos | I have back pain / my back hurts
+j'ai mal aux dents | I have a toothache / I've got toothache
+j'ai mal à l'oreille | I have an earache / my ear hurts
+j'ai mal aux yeux | my eyes hurt
+j'ai mal partout | I ache all over / it hurts everywhere
+j'ai de la fièvre | I have a fever / I have a temperature
+je tousse | I'm coughing / I have a cough
+j'ai le nez qui coule | I have a runny nose
+j'ai le nez bouché | I have a blocked nose / I have a stuffy nose
+j'éternue beaucoup | I'm sneezing a lot
+j'ai un rhume | I have a cold / I've got a cold
+je crois que j'ai la grippe | I think I have the flu / I think I've got flu
+j'ai la diarrhée | I have diarrhoea / I have diarrhea
+je suis constipé | I'm constipated
+j'ai envie de vomir | I feel sick / I feel nauseous
+j'ai vomi | I've vomited / I've been sick / I threw up
+j'ai des vertiges | I feel dizzy
+je suis très fatigué | I'm very tired / I feel exhausted
+je n'arrive pas à dormir | I can't sleep
+j'ai des brûlures d'estomac | I have heartburn
+j'ai des ballonnements | I feel bloated / I have bloating
+j'ai des crampes | I have cramps
+j'ai des démangeaisons | I'm itching / I have an itch
+ça me gratte | it itches / it's itchy
+j'ai des boutons | I have spots / I have pimples
+j'ai une éruption cutanée | I have a rash
+j'ai une plaque rouge | I have a red patch
+j'ai la peau sèche | I have dry skin
+j'ai un coup de soleil | I have sunburn / I'm sunburnt
+je me suis brûlé | I burned myself / I've burnt myself
+je me suis coupé | I cut myself / I've cut myself
+je me suis tordu la cheville | I twisted my ankle / I sprained my ankle
+je suis tombé | I fell / I had a fall
+j'ai un bleu | I have a bruise
+c'est enflé | it's swollen
+ça a gonflé | it has swollen up / it swelled up
+j'ai été piqué par une guêpe | I was stung by a wasp
+j'ai été piqué par des moustiques | I've been bitten by mosquitoes
+j'ai une piqûre d'insecte | I have an insect bite
+j'ai une ampoule au pied | I have a blister on my foot
+j'ai mal en urinant | it hurts when I pee / it burns when I urinate
+j'ai une cystite | I have cystitis / I have a urinary tract infection
+j'ai des règles douloureuses | I have painful periods / I have period pain
+j'ai du retard de règles | my period is late
+j'ai les yeux rouges | I have red eyes / my eyes are red
+j'ai les yeux qui piquent | my eyes are stinging / my eyes sting
+j'ai un orgelet | I have a stye
+j'ai un bouton de fièvre | I have a cold sore
+j'ai un aphte | I have a mouth ulcer / I have a canker sore
+j'ai les lèvres gercées | I have chapped lips
+j'ai du mal à respirer | I'm having trouble breathing / I'm short of breath
+j'ai une douleur dans la poitrine | I have a pain in my chest / I have chest pain
+j'ai des palpitations | I have palpitations / my heart is racing
+j'ai des frissons | I have chills / I'm shivering
+je transpire beaucoup | I'm sweating a lot
+j'ai des sueurs nocturnes | I have night sweats
+j'ai des courbatures | I have aches / my muscles ache / I'm sore
+je me suis fait un tour de reins | I've put my back out / I've done my back in
+j'ai un torticolis | I have a stiff neck / I've got a crick in my neck
+j'ai des fourmis dans les jambes | I have pins and needles in my legs
+j'ai les jambes lourdes | my legs feel heavy / I have heavy legs
+j'ai les chevilles enflées | my ankles are swollen
+j'ai mal aux articulations | my joints hurt / I have joint pain
+j'ai mal au genou | my knee hurts / I have knee pain
+j'ai mal à l'épaule | my shoulder hurts
+j'ai la migraine | I have a migraine
+j'ai des acouphènes | I have tinnitus / my ears are ringing
+j'ai l'oreille bouchée | my ear is blocked
+je n'ai plus de voix | I've lost my voice
+je suis enroué | I'm hoarse
+j'ai perdu le goût et l'odorat | I've lost my sense of taste and smell
+je n'ai pas d'appétit | I have no appetite / I've lost my appetite
+j'ai la bouche sèche | I have a dry mouth
+j'ai soif tout le temps | I'm thirsty all the time
+j'ai mal au cœur | I feel queasy / I feel sick
+j'ai le mal des transports | I get travel sick / I have motion sickness
+j'ai le mal de mer | I'm seasick
+j'ai le décalage horaire | I'm jet-lagged / I have jet lag
+j'ai des hémorroïdes | I have haemorrhoids / I have hemorrhoids / I have piles
+j'ai des pellicules | I have dandruff
+je perds mes cheveux | I'm losing my hair
+j'ai des poux | I have lice / I have head lice
+mon enfant a des poux | my child has head lice
+j'ai une mycose | I have a fungal infection
+j'ai une mycose vaginale | I have a yeast infection / I have thrush
+j'ai une mycose entre les orteils | I have athlete's foot
+j'ai une verrue | I have a wart / I have a verruca
+j'ai un ongle incarné | I have an ingrown toenail
+j'ai un cor au pied | I have a corn on my foot
+je saigne du nez | I have a nosebleed / my nose is bleeding
+j'ai les gencives qui saignent | my gums are bleeding
+je suis stressé | I'm stressed
+je suis anxieux | I'm anxious / I feel anxious
+je me sens déprimé | I feel depressed / I feel down
+je me sens faible | I feel weak
+je ne me sens pas bien | I don't feel well / I'm not feeling well
+je me sens mal | I feel unwell / I feel ill
+je suis malade | I'm ill / I'm sick
+ça fait mal | it hurts
+ça fait très mal | it hurts a lot / it really hurts
+ça brûle | it burns / it's burning
+ça pique | it stings
+ça lance | it's throbbing
+c'est douloureux | it's painful / it's sore
+la douleur est apparue hier | the pain started yesterday
+ça dure depuis trois jours | it's been going on for three days
+c'est de pire en pire | it's getting worse
+ça va mieux | it's better / I'm feeling better
+ça ne passe pas | it's not going away / it won't go away
+le symptôme | the symptom
+la douleur | the pain
+la fièvre | the fever / the temperature
+la toux | the cough
+la toux sèche | the dry cough / a dry cough
+la toux grasse | a chesty cough / a productive cough
+le mal de tête | the headache
+le mal de gorge | the sore throat
+le mal de ventre | the stomach ache
+le mal de dos | the backache / back pain
+la nausée | nausea
+le vomissement | vomiting
+le vertige | dizziness / vertigo
+la fatigue | tiredness / fatigue
+l'insomnie | insomnia
+la démangeaison | the itch / itching
+l'éruption | the rash
+le gonflement | swelling
+l'inflammation | inflammation
+l'infection | infection
+le saignement | bleeding
+la brûlure | the burn
+la coupure | the cut
+la plaie | the wound
+l'écorchure | the graze / the scrape
+la cicatrice | the scar
+l'hématome | the bruise / the haematoma
+l'entorse | the sprain
+la fracture | the fracture
+la luxation | the dislocation
+la crampe | the cramp
+la courbature | muscle ache / stiffness
+l'essoufflement | breathlessness / shortness of breath
+la congestion nasale | nasal congestion
+l'éternuement | the sneeze / sneezing
+le frisson | the shiver / chills
+la sueur | sweat
+la déshydratation | dehydration
+le malaise | the fainting spell / feeling faint / a dizzy spell
+l'évanouissement | fainting
+la perte de connaissance | loss of consciousness
+les palpitations | palpitations
+les ballonnements | bloating
+les gaz | wind / gas
+les brûlures d'estomac | heartburn
+les reflux acides | acid reflux
+les maux de tête | headaches
+
+# corps | Le corps humain
+le corps | the body
+la tête | the head
+le visage | the face
+le front | the forehead
+les cheveux | the hair
+le cuir chevelu | the scalp
+l'œil | the eye
+les yeux | the eyes
+la paupière | the eyelid
+le sourcil | the eyebrow
+les cils | the eyelashes
+le nez | the nose
+la narine | the nostril
+l'oreille | the ear
+la joue | the cheek
+la bouche | the mouth
+la lèvre | the lip
+les lèvres | the lips
+la langue | the tongue
+la dent | the tooth
+les dents | the teeth
+la gencive | the gum
+le palais | the palate / the roof of the mouth
+la mâchoire | the jaw
+le menton | the chin
+la gorge | the throat
+le cou | the neck
+la nuque | the nape of the neck / the back of the neck
+l'épaule | the shoulder
+le bras | the arm
+le coude | the elbow
+l'avant-bras | the forearm
+le poignet | the wrist
+la main | the hand
+la paume | the palm
+le doigt | the finger
+le pouce | the thumb
+l'ongle | the nail / the fingernail
+la poitrine | the chest
+le sein | the breast
+le mamelon | the nipple
+le ventre | the stomach / the belly / the tummy
+le nombril | the belly button / the navel
+le dos | the back
+le bas du dos | the lower back
+la colonne vertébrale | the spine
+la taille | the waist
+la hanche | the hip
+les fesses | the buttocks / the bottom
+l'aine | the groin
+les parties génitales | the genitals
+la jambe | the leg
+la cuisse | the thigh
+le genou | the knee
+le mollet | the calf
+la cheville | the ankle
+le pied | the foot
+les pieds | the feet
+le talon | the heel
+la plante du pied | the sole of the foot
+l'orteil | the toe
+le gros orteil | the big toe
+l'ongle du pied | the toenail
+la peau | the skin
+le muscle | the muscle
+l'os | the bone
+les os | the bones
+l'articulation | the joint
+le tendon | the tendon
+le ligament | the ligament
+le nerf | the nerve
+le sang | the blood
+la veine | the vein
+l'artère | the artery
+le crâne | the skull
+la côte | the rib
+le bassin | the pelvis
+la clavicule | the collarbone
+l'omoplate | the shoulder blade
+le tendon d'Achille | the Achilles tendon
+le ménisque | the meniscus
+le cartilage | the cartilage
+la tempe | the temple
+l'aisselle | the armpit
+le pli du coude | the inside of the elbow / the crook of the elbow
+la gauche | the left / the left side
+la droite | the right / the right side
+du côté gauche | on the left side
+du côté droit | on the right side
+des deux côtés | on both sides

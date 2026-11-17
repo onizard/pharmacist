@@ -1,0 +1,243 @@
+# organes | Organes et fonctions
+le cœur | the heart
+les poumons | the lungs
+le poumon | the lung
+le foie | the liver
+les reins | the kidneys
+le rein | the kidney
+l'estomac | the stomach
+l'intestin | the bowel / the intestine
+le gros intestin | the large intestine / the colon
+l'intestin grêle | the small intestine
+le côlon | the colon
+le rectum | the rectum
+l'anus | the anus
+la vessie | the bladder
+la prostate | the prostate
+l'utérus | the uterus / the womb
+les ovaires | the ovaries
+le vagin | the vagina
+le pénis | the penis
+les testicules | the testicles
+le cerveau | the brain
+la moelle épinière | the spinal cord
+le pancréas | the pancreas
+la vésicule biliaire | the gallbladder
+la rate | the spleen
+la thyroïde | the thyroid / the thyroid gland
+l'œsophage | the oesophagus / the esophagus
+la trachée | the windpipe / the trachea
+les bronches | the bronchi / the airways
+les sinus | the sinuses
+les amygdales | the tonsils
+les végétations | the adenoids
+les ganglions | the lymph nodes / the glands
+l'appendice | the appendix
+le tympan | the eardrum
+la rétine | the retina
+le cristallin | the lens
+la cornée | the cornea
+la glande | the gland
+l'hormone | the hormone
+le système immunitaire | the immune system
+le système nerveux | the nervous system
+le système digestif | the digestive system
+le système respiratoire | the respiratory system
+la circulation sanguine | blood circulation
+la digestion | digestion
+la respiration | breathing / respiration
+le rythme cardiaque | the heart rate
+le pouls | the pulse
+la tension artérielle | blood pressure
+la glycémie | blood sugar / blood glucose
+le cholestérol | cholesterol
+les globules rouges | red blood cells
+les globules blancs | white blood cells
+les plaquettes | platelets
+le plasma | plasma
+le groupe sanguin | the blood group / the blood type
+l'urine | urine
+les selles | stools / faeces / feces
+la salive | saliva
+les crachats | phlegm / sputum
+le mucus | mucus
+la bile | bile
+le métabolisme | metabolism
+le microbiote | the microbiome / the gut flora
+la flore intestinale | the gut flora
+le poids | weight
+la taille | height
+l'indice de masse corporelle | body mass index / BMI
+la température corporelle | body temperature
+
+# formes | Formes des médicaments
+le médicament | the medicine / the medication / the drug
+les médicaments | medicines / medication
+le comprimé | the tablet / the pill
+le comprimé effervescent | the effervescent tablet / the soluble tablet
+le comprimé à croquer | the chewable tablet
+le comprimé orodispersible | the orodispersible tablet / the melt-in-the-mouth tablet
+le comprimé sécable | the scored tablet
+la gélule | the capsule
+la capsule molle | the soft capsule / the softgel
+le cachet | the tablet / the pill
+la pastille | the lozenge / the throat sweet
+la pastille à sucer | the lozenge
+le sirop | the syrup / the cough syrup
+la suspension buvable | the oral suspension
+la solution buvable | the oral solution
+les gouttes | the drops
+les gouttes pour les yeux | eye drops
+les gouttes pour les oreilles | ear drops
+le collyre | the eye drops
+le spray nasal | the nasal spray
+le spray pour la gorge | the throat spray
+le sachet | the sachet / the powder sachet
+la poudre | the powder
+la poudre à diluer | the powder to dissolve
+l'ampoule | the ampoule / the vial
+le flacon | the bottle
+la pommade | the ointment
+la crème | the cream
+le gel | the gel
+la lotion | the lotion
+le baume | the balm
+le patch | the patch
+le patch transdermique | the transdermal patch
+le suppositoire | the suppository
+l'ovule | the pessary / the vaginal suppository
+l'inhalateur | the inhaler
+l'aérosol doseur | the metered-dose inhaler
+la chambre d'inhalation | the spacer
+le nébuliseur | the nebuliser / the nebulizer
+l'injection | the injection
+la piqûre | the injection / the shot / the jab
+la seringue | the syringe
+l'aiguille | the needle
+le stylo injecteur | the injection pen / the pen injector
+le stylo d'adrénaline | the adrenaline pen / the EpiPen / the epinephrine auto-injector
+la perfusion | the drip / the infusion / the IV
+le vaccin | the vaccine
+le bain de bouche | the mouthwash
+le shampooing | the shampoo
+le shampooing antipelliculaire | the anti-dandruff shampoo
+le dosage | the strength / the dose
+cinq cents milligrammes | five hundred milligrams
+un gramme | one gram
+la cuillère-mesure | the measuring spoon
+la pipette doseuse | the oral syringe / the dosing syringe
+le gobelet doseur | the measuring cup / the dosing cup
+la seringue pour administration orale | the oral syringe
+le compte-gouttes | the dropper
+la forme à libération prolongée | the extended-release form / the slow-release form
+le générique | the generic / the generic drug
+le princeps | the brand-name drug / the originator drug
+le médicament de marque | the brand-name medicine
+la substance active | the active ingredient / the active substance
+le principe actif | the active ingredient
+l'excipient | the excipient / the inactive ingredient
+sans sucre | sugar-free
+sans alcool | alcohol-free
+sans lactose | lactose-free
+sans gluten | gluten-free
+goût fraise | strawberry flavour / strawberry flavor
+goût orange | orange flavour / orange flavor
+pour adulte | for adults
+pour enfant | for children
+pour nourrisson | for infants / for babies
+
+# posologie | Posologie et prise
+la posologie | the dosage / the dose instructions
+la dose | the dose
+la dose maximale | the maximum dose
+ne dépassez pas la dose prescrite | do not exceed the prescribed dose / don't exceed the stated dose
+ne dépassez pas quatre grammes par jour | do not take more than four grams a day
+prenez un comprimé | take one tablet
+prenez deux comprimés | take two tablets
+un comprimé trois fois par jour | one tablet three times a day
+un comprimé matin et soir | one tablet morning and evening / one tablet in the morning and one in the evening
+deux fois par jour | twice a day
+trois fois par jour | three times a day
+une fois par jour | once a day
+toutes les quatre heures | every four hours
+toutes les six heures | every six hours
+toutes les huit heures | every eight hours
+espacez les prises d'au moins quatre heures | leave at least four hours between doses
+attendez au moins six heures entre deux prises | wait at least six hours between doses
+le matin | in the morning
+le midi | at lunchtime / at noon
+le soir | in the evening
+au coucher | at bedtime
+le matin à jeun | in the morning on an empty stomach
+à jeun | on an empty stomach
+pendant le repas | with food / during a meal
+au milieu du repas | in the middle of a meal / with food
+avant le repas | before meals / before eating
+après le repas | after meals / after eating
+une demi-heure avant le repas | half an hour before meals
+avec un grand verre d'eau | with a large glass of water / with a full glass of water
+avec un peu d'eau | with a little water
+à avaler sans croquer | swallow whole, do not chew
+à laisser fondre sous la langue | let it dissolve under your tongue
+à laisser fondre dans la bouche | let it melt in your mouth
+à dissoudre dans un verre d'eau | dissolve in a glass of water
+à croquer | to be chewed / chew it
+à sucer | to be sucked / suck it
+ne pas écraser | do not crush
+ne pas couper | do not split / do not cut
+vous pouvez couper le comprimé en deux | you can split the tablet in half / you can break the tablet in two
+un demi-comprimé | half a tablet
+un comprimé et demi | one and a half tablets
+une cuillère à café | a teaspoon / a teaspoonful
+une cuillère à soupe | a tablespoon / a tablespoonful
+cinq millilitres | five millilitres / five milliliters
+trois gouttes dans chaque narine | three drops in each nostril
+deux gouttes dans chaque œil | two drops in each eye
+une pulvérisation dans chaque narine | one spray in each nostril
+deux bouffées | two puffs
+inspirez profondément | breathe in deeply
+retenez votre respiration dix secondes | hold your breath for ten seconds
+rincez-vous la bouche après utilisation | rinse your mouth after use
+agitez avant emploi | shake before use / shake well before use
+appliquez une fine couche | apply a thin layer
+appliquez deux fois par jour | apply twice a day
+massez jusqu'à pénétration complète | rub in until fully absorbed
+sur peau propre et sèche | on clean, dry skin
+lavez-vous les mains après application | wash your hands after applying it
+ne pas appliquer sur une plaie | do not apply to broken skin / do not apply to open wounds
+évitez le contour des yeux | avoid the eye area
+usage externe uniquement | for external use only
+ne pas avaler | do not swallow
+par voie orale | by mouth / orally
+par voie rectale | rectally
+en application locale | applied to the skin / topically
+pendant cinq jours | for five days
+pendant une semaine | for a week / for one week
+pendant dix jours | for ten days
+pendant un mois | for a month
+pendant trois mois | for three months
+jusqu'à la fin de la boîte | until you finish the box / until the box is finished
+allez jusqu'au bout du traitement | finish the whole course / complete the full course of treatment
+n'arrêtez pas le traitement brusquement | don't stop the treatment suddenly
+même si vous vous sentez mieux | even if you feel better
+en cas de douleur | if you have pain / when needed for pain
+en cas de besoin | as needed / if needed / when required
+si nécessaire | if necessary / if needed
+au maximum six comprimés par jour | no more than six tablets a day / a maximum of six tablets a day
+pas plus de trois jours | for no more than three days
+pas plus de cinq jours sans avis médical | no more than five days without medical advice
+si vous oubliez une prise | if you miss a dose / if you forget a dose
+ne prenez pas de dose double | do not take a double dose
+prenez-le à heure fixe | take it at the same time every day
+à la même heure chaque jour | at the same time every day
+le traitement | the treatment
+la durée du traitement | the length of treatment / the duration of treatment
+la prise | the dose / the intake
+la cure | the course
+une cure d'un mois | a one-month course
+renouvelable | repeatable / can be repeated
+la dose en fonction du poids | the dose according to weight / weight-based dose
+la dose pour un enfant de quinze kilos | the dose for a child weighing fifteen kilos
+une dose-poids toutes les six heures | one weight-dose every six hours
+graduée en kilos | graduated in kilos / marked in kilograms
+remplissez la pipette jusqu'au trait | fill the syringe up to the line / fill the syringe to the mark

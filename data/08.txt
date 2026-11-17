@@ -1,0 +1,175 @@
+# bebe | Bébé et enfant
+le bébé | the baby
+le nourrisson | the infant / the baby
+le nouveau-né | the newborn
+l'enfant | the child
+les enfants | the children / the kids
+mon bébé a de la fièvre | my baby has a fever / my baby has a temperature
+mon fils a mal à l'oreille | my son has an earache
+ma fille tousse beaucoup | my daughter is coughing a lot
+il a quel âge ? | how old is he?
+il pèse combien ? | how much does he weigh?
+il a moins de deux ans ? | is he under two?
+pour un enfant de cinq ans | for a five-year-old / for a child of five
+le sirop pour enfant | children's syrup
+le paracétamol pour enfant | children's paracetamol
+la dose selon le poids de l'enfant | the dose depends on the child's weight
+la pipette graduée en kilos | the syringe marked in kilos
+le suppositoire pour bébé | the baby suppository
+le biberon | the baby bottle / the feeding bottle
+la tétine | the teat / the nipple (of a bottle)
+la sucette | the dummy / the pacifier
+le lait infantile | infant formula / baby milk
+le lait premier âge | first infant milk / stage one formula
+le lait deuxième âge | follow-on milk / stage two formula
+le lait de croissance | growing-up milk / toddler milk
+le lait anti-régurgitation | anti-reflux formula
+le lait hypoallergénique | hypoallergenic formula
+le lait sans lactose | lactose-free formula
+une cuillère mesure pour trente millilitres d'eau | one scoop for thirty millilitres of water
+les régurgitations | spitting up / regurgitation
+le rot du bébé | the baby's burp / burping the baby
+la couche | the nappy / the diaper
+les couches | nappies / diapers
+le change | the nappy change / the diaper change
+l'érythème fessier | nappy rash / diaper rash
+la crème pour le change | the nappy cream / the diaper rash cream
+les lingettes | wipes / baby wipes
+le liniment | the liniment / cleansing lotion for the baby's bottom
+le sérum physiologique en dosettes | saline in single-dose pods / saline vials
+le mouche-bébé | the nasal aspirator
+les poussées dentaires | teething
+il fait ses dents | he's teething
+le gel pour les poussées dentaires | the teething gel
+l'anneau de dentition | the teething ring
+les croûtes de lait | cradle cap
+la vitamine D pour bébé | vitamin D drops for babies
+les gouttes de vitamine D | vitamin D drops
+la gastro chez l'enfant | a stomach bug in children
+les pleurs | crying
+il pleure beaucoup | he cries a lot
+il ne dort pas | he isn't sleeping / he won't sleep
+il refuse de boire | he refuses to drink / he won't drink
+il ne mange plus | he's stopped eating / he won't eat
+il est grognon | he's grumpy / he's cranky
+il est somnolent | he's drowsy / he's very sleepy
+il a des boutons partout | he has spots everywhere
+c'est peut-être la varicelle | it might be chickenpox
+le carnet de santé | the child health record / the health record booklet
+la courbe de croissance | the growth chart
+le pédiatre | the paediatrician / the pediatrician
+la PMI | the mother and child health centre / the child health clinic
+les vaccins obligatoires | compulsory vaccinations / mandatory vaccines
+le calendrier vaccinal | the vaccination schedule
+la crèche | the nursery / the daycare
+l'école | school
+le thermomètre rectal | the rectal thermometer
+la fièvre chez le bébé de moins de trois mois est une urgence | fever in a baby under three months is an emergency
+appelez le 15 | call 15 / call the emergency services
+le lait maternel | breast milk
+le tire-lait | the breast pump
+le coussinet d'allaitement | the nursing pad / the breast pad
+la crème pour les mamelons | the nipple cream
+les crevasses | cracked nipples
+l'engorgement | engorgement
+la mastite | mastitis
+le portage | babywearing
+la poussette | the pushchair / the stroller
+le siège auto | the car seat
+la chaise haute | the high chair
+la petite cuillère | the baby spoon
+la diversification alimentaire | introducing solid food / weaning
+le petit pot | the baby food jar
+la gourde de compote | the fruit pouch
+la crème solaire pour bébé | baby sunscreen
+pas de soleil avant un an | no direct sun before one year
+le chapeau | the hat / the sun hat
+la mort subite du nourrisson | sudden infant death syndrome / SIDS / cot death
+couchez le bébé sur le dos | put the baby to sleep on its back
+la gigoteuse | the baby sleeping bag
+la veilleuse | the night light
+l'humidificateur | the humidifier
+
+# grossesse | Grossesse et femme
+je suis enceinte | I'm pregnant
+je suis enceinte de trois mois | I'm three months pregnant
+elle attend un bébé | she's expecting a baby
+la grossesse | pregnancy
+la femme enceinte | the pregnant woman
+le test de grossesse | the pregnancy test
+le test est positif | the test is positive
+faites le test le matin | do the test in the morning
+la date présumée de l'accouchement | the due date
+le premier trimestre | the first trimester
+l'échographie | the ultrasound scan / the scan
+la sage-femme | the midwife
+le gynécologue | the gynaecologist / the gynecologist
+l'obstétricien | the obstetrician
+l'accouchement | childbirth / delivery / labour
+la césarienne | the caesarean / the C-section
+la péridurale | the epidural
+la maternité | the maternity ward / the maternity hospital
+les contractions | contractions
+perdre les eaux | to have one's waters break / for one's water to break
+les nausées matinales | morning sickness
+les vergetures | stretch marks
+la crème anti-vergetures | the stretch mark cream
+l'acide folique pendant la grossesse | folic acid during pregnancy
+ce médicament est autorisé pendant la grossesse | this medicine is safe during pregnancy
+demandez l'avis de votre médecin | ask your doctor's advice / check with your doctor
+la fausse couche | the miscarriage
+l'allaitement | breastfeeding
+j'allaite | I'm breastfeeding
+le post-partum | the postpartum period / after the birth
+la rééducation du périnée | pelvic floor rehabilitation / pelvic floor exercises
+les règles | periods / the period
+j'ai mes règles | I have my period / I'm on my period
+les règles douloureuses | painful periods / period pain
+les règles irrégulières | irregular periods
+le retard de règles | a late period
+le cycle | the cycle / the menstrual cycle
+l'ovulation | ovulation
+le test d'ovulation | the ovulation test
+les serviettes hygiéniques | sanitary pads / sanitary towels
+les tampons | tampons
+la coupe menstruelle | the menstrual cup
+la culotte menstruelle | period underwear / period pants
+le syndrome prémenstruel | premenstrual syndrome / PMS
+la ménopause | the menopause / menopause
+les bouffées de chaleur | hot flushes / hot flashes
+la sécheresse vaginale | vaginal dryness
+le gel lubrifiant | the lubricant / lube
+les pertes blanches | vaginal discharge
+la mycose vaginale | the vaginal yeast infection / thrush
+l'ovule antifongique | the antifungal pessary
+le savon intime | the intimate wash
+la toilette intime | intimate hygiene
+la contraception | contraception / birth control
+la pilule | the pill
+je prends la pilule | I'm on the pill
+j'ai oublié ma pilule | I forgot my pill / I missed my pill
+depuis combien d'heures ? | how many hours ago?
+moins de douze heures | less than twelve hours
+prenez-la dès que possible | take it as soon as possible
+utilisez un préservatif pendant sept jours | use a condom for seven days
+la pilule du lendemain | the morning-after pill
+elle est gratuite en pharmacie | it's free at the pharmacy
+à prendre le plus tôt possible | take it as soon as possible
+efficace jusqu'à soixante-douze heures | effective up to seventy-two hours / works up to three days
+le préservatif | the condom
+les préservatifs | condoms
+le stérilet | the coil / the IUD
+l'implant contraceptif | the contraceptive implant
+l'anneau vaginal | the vaginal ring
+le patch contraceptif | the contraceptive patch
+le dépistage | screening / testing
+le frottis | the smear test / the Pap smear
+la mammographie | the mammogram
+l'autopalpation des seins | breast self-examination
+le dépistage des IST | STI testing / sexual health screening
+le centre de santé sexuelle | the sexual health clinic
+la dysfonction érectile | erectile dysfunction
+le traitement de l'impuissance | the erectile dysfunction treatment
+la fertilité | fertility
+l'infertilité | infertility
+la PMA | IVF / assisted reproduction

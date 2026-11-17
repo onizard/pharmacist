@@ -1,0 +1,140 @@
+# materiel | Matériel médical et orthopédie
+le matériel médical | medical equipment
+la location de matériel médical | medical equipment hire / medical equipment rental
+le fauteuil roulant | the wheelchair
+le déambulateur | the walking frame / the walker / the Zimmer frame
+la canne | the walking stick / the cane
+le lit médicalisé | the hospital bed / the medical bed
+le matelas anti-escarres | the pressure-relief mattress / the anti-bedsore mattress
+l'escarre | the pressure sore / the bedsore
+la chaise percée | the commode chair
+le rehausseur de toilettes | the raised toilet seat
+le siège de douche | the shower chair / the shower seat
+la barre d'appui | the grab bar / the grab rail
+le bassin de lit | the bedpan
+l'urinal | the urinal
+les protections pour incontinence | incontinence pads
+l'incontinence | incontinence
+les changes complets | adult nappies / adult diapers
+la sonde urinaire | the urinary catheter
+la poche de stomie | the stoma bag / the ostomy bag
+la stomie | the stoma
+le bas de contention | the compression stocking
+les bas de contention | compression stockings / support stockings
+la chaussette de contention | the compression sock
+mettez-les le matin au réveil | put them on in the morning when you wake up
+il faut prendre les mesures | we need to take your measurements
+le tour de cheville | the ankle measurement / the ankle circumference
+l'attelle de cheville | the ankle brace / the ankle support
+l'attelle de poignet | the wrist splint / the wrist brace
+la genouillère | the knee brace / the knee support
+la ceinture lombaire | the lumbar support belt / the back brace
+le collier cervical | the neck brace / the cervical collar
+la minerve | the neck brace / the cervical collar
+l'orthèse | the orthosis / the brace / the support
+la semelle orthopédique | the orthopaedic insole / the orthotic insole
+les chaussures orthopédiques | orthopaedic shoes / orthopedic shoes
+le podologue | the podiatrist / the chiropodist
+l'orthopédiste | the orthopaedic specialist / the orthotist
+la talonnette | the heel pad / the heel cup
+l'écharpe d'immobilisation | the arm sling / the immobilising sling
+le bandage | the bandage / the wrap
+le strapping | the strapping / the taping
+le tensiomètre au bras | the upper-arm blood pressure monitor
+le tensiomètre au poignet | the wrist blood pressure monitor
+l'oxymètre de pouls | the pulse oximeter
+la saturation en oxygène | oxygen saturation
+l'oxygène | oxygen
+la bouteille d'oxygène | the oxygen cylinder / the oxygen bottle
+le concentrateur d'oxygène | the oxygen concentrator
+l'appareil de pression positive continue | the CPAP machine
+l'aérosol | the nebuliser / the nebulizer
+le pèse-personne | the bathroom scales / the scale
+la balance pour bébé | the baby scales
+le stéthoscope | the stethoscope
+les gants jetables | disposable gloves
+les gants en nitrile | nitrile gloves
+le coton | cotton wool / cotton
+le coton hydrophile | cotton wool / absorbent cotton
+la seringue | the syringe
+le pilulier hebdomadaire | the weekly pill organiser
+le coupe-comprimés | the pill cutter / the pill splitter
+l'écrase-comprimés | the pill crusher
+la loupe | the magnifying glass
+la bouillotte | the hot-water bottle
+la ceinture chauffante | the heat belt / the heated belt
+le coussin chauffant | the heating pad
+le tire-lait électrique | the electric breast pump
+l'aérateur | the ventilator / the fan
+l'humidificateur d'air | the air humidifier
+le purificateur d'air | the air purifier
+la prescription de matériel | the prescription for equipment
+nous livrons à domicile | we deliver to your home / we do home delivery
+le prestataire de santé à domicile | the home healthcare provider
+l'infirmière à domicile | the home nurse / the district nurse
+la prise en charge à domicile | home care
+le maintien à domicile | staying at home / home support for the elderly
+la téléassistance | the personal alarm / the telecare alarm
+
+# vaccins | Vaccins, tests et dépistage
+le vaccin | the vaccine
+la vaccination | vaccination / immunisation / immunization
+se faire vacciner | to get vaccinated / to have a vaccination
+je voudrais me faire vacciner | I'd like to get vaccinated
+nous vaccinons à la pharmacie | we give vaccinations at the pharmacy / we vaccinate here
+sans rendez-vous | without an appointment / walk-in
+sur rendez-vous | by appointment
+prenez rendez-vous en ligne | book an appointment online
+le vaccin contre la grippe | the flu vaccine / the flu jab / the flu shot
+le vaccin contre le Covid | the Covid vaccine
+le rappel | the booster / the booster shot
+le vaccin contre le tétanos | the tetanus vaccine
+le vaccin contre l'hépatite B | the hepatitis B vaccine
+le vaccin contre le papillomavirus | the HPV vaccine
+le vaccin contre le pneumocoque | the pneumococcal vaccine
+le vaccin contre le méningocoque | the meningococcal vaccine
+le vaccin contre la rage | the rabies vaccine
+le vaccin contre la fièvre typhoïde | the typhoid vaccine
+le vaccin ROR | the MMR vaccine
+le carnet de vaccination | the vaccination record / the immunisation record
+le certificat de vaccination | the vaccination certificate
+retroussez votre manche | roll up your sleeve
+ça ne fait pas mal | it won't hurt / it doesn't hurt
+une petite piqûre | a little prick / a small jab
+le bras peut être douloureux | your arm may be sore
+restez quinze minutes en observation | stay for fifteen minutes so we can keep an eye on you
+la réaction au point d'injection | a reaction at the injection site
+une légère fièvre est possible | you may get a slight fever
+le test | the test
+le test de dépistage | the screening test
+le test rapide | the rapid test
+le test antigénique nasal | the nasal antigen test / the lateral flow test
+le test PCR | the PCR test
+le prélèvement | the swab / the sample
+on va faire un prélèvement dans le nez | we're going to take a swab from your nose
+le résultat en quinze minutes | the result in fifteen minutes
+le résultat est négatif | the result is negative
+le résultat est positif | the result is positive
+isolez-vous | self-isolate / stay at home
+le test de dépistage du diabète | the diabetes screening test
+le test de cholestérol | the cholesterol test
+le test d'angine | the strep test / the throat swab test
+le test urinaire | the urine test / the urine dipstick
+la bandelette urinaire | the urine dipstick / the urine test strip
+le test du VIH | the HIV test
+l'autotest VIH | the HIV self-test
+le test de dépistage du cancer colorectal | the bowel cancer screening test
+le kit de dépistage | the screening kit / the test kit
+le test de grossesse précoce | the early pregnancy test
+le test d'ovulation | the ovulation test
+le test de ménopause | the menopause test
+le dépistage gratuit | free screening / free testing
+la prévention | prevention
+la campagne de vaccination | the vaccination campaign
+le vaccin est gratuit | the vaccine is free
+le vaccin est remboursé | the vaccine is reimbursed / the vaccine is covered
+le bon de prise en charge | the voucher / the reimbursement voucher
+le bon de vaccination antigrippale | the flu vaccination voucher
+les vaccins du voyageur | travel vaccinations / travel vaccines
+le centre de vaccinations internationales | the travel vaccination clinic
+consultez au moins un mois avant le départ | see a doctor at least a month before you leave

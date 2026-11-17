@@ -1,0 +1,191 @@
+# effets | Effets indésirables et précautions
+l'effet secondaire | the side effect
+les effets indésirables | side effects / adverse effects
+ça peut donner sommeil | it may make you drowsy / it can make you sleepy
+ça peut provoquer des somnolences | it can cause drowsiness
+ne conduisez pas après l'avoir pris | don't drive after taking it
+ne buvez pas d'alcool avec ce médicament | don't drink alcohol with this medicine
+évitez l'alcool | avoid alcohol
+évitez le soleil | avoid the sun / avoid sun exposure
+ce médicament rend la peau sensible au soleil | this medicine makes your skin sensitive to the sun
+protégez-vous du soleil | protect yourself from the sun
+ça peut donner des maux d'estomac | it can upset your stomach / it can cause stomach upset
+prenez-le pendant le repas pour éviter les maux d'estomac | take it with food to avoid an upset stomach
+ça peut donner la diarrhée | it can cause diarrhoea / it can cause diarrhea
+ça peut colorer les urines | it can change the colour of your urine / it may discolour your urine
+la contre-indication | the contraindication
+c'est contre-indiqué | it's contraindicated / you mustn't take it
+c'est contre-indiqué pendant la grossesse | it's not recommended during pregnancy / it's contraindicated in pregnancy
+c'est déconseillé pendant l'allaitement | it's not recommended while breastfeeding
+pas d'anti-inflammatoires pendant la grossesse | no anti-inflammatories during pregnancy
+c'est déconseillé aux enfants de moins de six ans | it's not recommended for children under six
+réservé à l'adulte | for adults only
+l'interaction médicamenteuse | the drug interaction
+ne le prenez pas avec ce médicament | don't take it with this medicine
+ces deux médicaments ne font pas bon ménage | these two medicines don't mix / these two medicines shouldn't be taken together
+attention au paracétamol caché dans d'autres médicaments | watch out for paracetamol in other medicines
+ne prenez pas deux médicaments à base de paracétamol | don't take two medicines containing paracetamol
+le surdosage | the overdose
+la surdose | the overdose
+l'intoxication | the poisoning
+le centre antipoison | the poison control centre / the poison center
+appelez le centre antipoison | call the poison control centre
+l'allergie médicamenteuse | the drug allergy
+la réaction allergique | the allergic reaction
+le choc anaphylactique | anaphylactic shock / anaphylaxis
+l'œdème de Quincke | angioedema / Quincke's oedema
+arrêtez le traitement et consultez | stop the treatment and see a doctor
+si vous avez une réaction, arrêtez immédiatement | if you have a reaction, stop immediately
+la tolérance | tolerance
+la dépendance | dependence / addiction
+ça peut créer une dépendance | it can be habit-forming / it can cause dependence
+l'accoutumance | habituation / tolerance
+le sevrage | withdrawal
+l'effet rebond | the rebound effect
+pas plus de cinq jours, sinon effet rebond | no more than five days, otherwise there's a rebound effect
+la photosensibilité | photosensitivity
+la somnolence | drowsiness
+les maux d'estomac | stomach upset / stomach pain
+la sécheresse de la bouche | dry mouth
+la perte d'appétit | loss of appetite
+la prise de poids | weight gain
+la perte de poids | weight loss
+les troubles du sommeil | sleep problems / sleep disturbances
+les maux de tête peuvent être un effet secondaire | headaches can be a side effect
+c'est un effet secondaire fréquent | it's a common side effect
+c'est un effet secondaire rare | it's a rare side effect
+c'est normal, ça va passer | it's normal, it will pass / it's normal, it'll go away
+ce n'est pas grave | it's nothing serious / it's not serious
+c'est sans danger | it's safe / it's harmless
+il n'y a pas de risque | there's no risk
+c'est compatible avec votre traitement | it's compatible with your treatment / it's fine with your other medication
+c'est compatible avec l'allaitement | it's compatible with breastfeeding / it's safe while breastfeeding
+vous pouvez le prendre en toute sécurité | you can take it safely
+la pharmacovigilance | pharmacovigilance / drug safety monitoring
+déclarer un effet indésirable | to report a side effect
+la précaution d'emploi | the precaution for use
+la mise en garde | the warning
+lisez les mises en garde | read the warnings
+la conservation | storage
+à conserver à température ambiante | store at room temperature
+entre deux et huit degrés | between two and eight degrees
+une fois ouvert, à utiliser dans le mois | once opened, use within one month
+jetez-le après quinze jours | throw it away after fifteen days / discard after fifteen days
+rapportez vos médicaments non utilisés | bring back your unused medicines
+nous récupérons les médicaments périmés | we take back expired medicines
+ne jetez pas les médicaments à la poubelle | don't throw medicines in the bin / don't throw medicines in the trash
+le collecteur de déchets piquants | the sharps bin / the sharps container
+les aiguilles usagées | used needles
+
+# maladies | Maladies courantes
+la maladie | the illness / the disease
+le rhume | the cold / the common cold
+la grippe | the flu / influenza
+le Covid | Covid / COVID-19
+l'angine | tonsillitis / a throat infection
+l'angine blanche | strep throat
+la pharyngite | pharyngitis / a sore throat
+la laryngite | laryngitis
+la sinusite | sinusitis / a sinus infection
+la rhinopharyngite | a head cold / nasopharyngitis
+la bronchite | bronchitis
+la bronchiolite | bronchiolitis
+la pneumonie | pneumonia
+l'otite | an ear infection / otitis
+l'otite du baigneur | swimmer's ear
+la conjonctivite | conjunctivitis / pink eye
+la gastro-entérite | gastroenteritis / a stomach bug / stomach flu
+l'intoxication alimentaire | food poisoning
+la turista | traveller's diarrhoea / traveler's diarrhea
+la cystite | cystitis / a bladder infection
+l'infection urinaire | a urinary tract infection / a UTI
+la varicelle | chickenpox
+la rougeole | measles
+les oreillons | mumps
+la rubéole | rubella / German measles
+la scarlatine | scarlet fever
+la coqueluche | whooping cough
+la méningite | meningitis
+l'herpès | herpes
+le zona | shingles
+la mononucléose | glandular fever / mononucleosis / mono
+la gale | scabies
+l'impétigo | impetigo
+l'eczéma | eczema
+le psoriasis | psoriasis
+l'acné | acne
+l'urticaire | hives / urticaria
+la dermatite | dermatitis
+la mycose | a fungal infection
+le muguet | thrush / oral thrush
+la maladie de Lyme | Lyme disease
+la tique | the tick
+la piqûre de tique | the tick bite
+la gastrite | gastritis
+l'ulcère | the ulcer
+le reflux gastro-œsophagien | gastro-oesophageal reflux / acid reflux / GERD
+l'appendicite | appendicitis
+les calculs rénaux | kidney stones
+la colique néphrétique | renal colic
+l'hépatite | hepatitis
+la migraine | migraine
+la crise d'angoisse | the panic attack / the anxiety attack
+la crise d'asthme | the asthma attack
+le coup de chaleur | heatstroke
+l'insolation | sunstroke
+l'hypothermie | hypothermia
+la déshydratation | dehydration
+l'anémie | anaemia / anemia
+la carence en fer | iron deficiency
+la lombalgie | lower back pain
+la sciatique | sciatica
+la tendinite | tendinitis / tendonitis
+l'entorse de la cheville | the sprained ankle
+la foulure | the sprain / the strain
+l'élongation | the pulled muscle / the strain
+la déchirure musculaire | the torn muscle / the muscle tear
+le lumbago | lumbago
+l'arthrose | osteoarthritis
+l'arthrite | arthritis
+la goutte | gout
+la varice | the varicose vein
+les jambes lourdes | heavy legs / tired legs
+la phlébite | phlebitis / a blood clot in the leg / DVT
+l'embolie pulmonaire | pulmonary embolism
+l'infarctus | the heart attack
+la crise cardiaque | the heart attack
+l'AVC | the stroke
+l'accident vasculaire cérébral | the stroke
+l'épilepsie | epilepsy
+la crise d'épilepsie | the seizure / the epileptic fit
+l'allergie | the allergy
+le rhume des foins | hay fever
+l'allergie aux pollens | pollen allergy / hay fever
+l'allergie aux acariens | dust mite allergy
+l'allergie alimentaire | food allergy
+l'allergie aux arachides | peanut allergy
+l'intolérance au lactose | lactose intolerance
+la maladie cœliaque | coeliac disease / celiac disease
+le paludisme | malaria
+la dengue | dengue fever
+la fièvre jaune | yellow fever
+la tuberculose | tuberculosis / TB
+les infections sexuellement transmissibles | sexually transmitted infections / STIs
+le VIH | HIV
+le sida | AIDS
+la chlamydia | chlamydia
+le papillomavirus | HPV / human papillomavirus
+l'infection | the infection
+le virus | the virus
+la bactérie | the bacterium / the bacteria
+le microbe | the germ
+le champignon | the fungus
+le parasite | the parasite
+c'est viral | it's viral
+c'est bactérien | it's bacterial
+c'est contagieux | it's contagious / it's catching
+ce n'est pas contagieux | it's not contagious
+l'épidémie | the epidemic / the outbreak
+la pandémie | the pandemic
+l'incubation | the incubation period
+la contagion | contagion / infection

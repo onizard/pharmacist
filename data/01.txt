@@ -1,0 +1,233 @@
+# comptoir | Au comptoir
+bonjour, que puis-je faire pour vous ? | hello, how can I help you?
+bonjour | hello / good morning
+bonsoir | good evening
+au revoir | goodbye
+merci | thank you / thanks
+merci beaucoup | thank you very much / thanks a lot
+je vous en prie | you're welcome
+s'il vous plaît | please
+excusez-moi | excuse me
+désolé | sorry / I'm sorry
+un instant, s'il vous plaît | just a moment, please / one moment, please
+je reviens tout de suite | I'll be right back
+je vais vérifier | I'll check / let me check
+je vais demander au pharmacien | I'll ask the pharmacist
+je suis pharmacien | I'm a pharmacist
+avez-vous une ordonnance ? | do you have a prescription?
+c'est pour vous ? | is it for you?
+c'est pour qui ? | who is it for?
+c'est pour un enfant ? | is it for a child?
+quel âge a-t-il ? | how old is he?
+quel âge a-t-elle ? | how old is she?
+quel âge avez-vous ? | how old are you?
+autre chose ? | anything else?
+ce sera tout ? | will that be all? / is that all?
+c'est tout, merci | that's all, thank you
+nous ne l'avons pas en stock | we don't have it in stock / it's out of stock
+je peux vous le commander | I can order it for you
+ce sera disponible cet après-midi | it will be available this afternoon
+ce sera disponible demain matin | it will be available tomorrow morning
+revenez demain | come back tomorrow
+ça fait douze euros | that's twelve euros / that comes to twelve euros
+vous payez comment ? | how would you like to pay?
+par carte ou en espèces ? | card or cash?
+vous pouvez payer par carte | you can pay by card
+le paiement sans contact | contactless payment
+voulez-vous un sac ? | would you like a bag?
+voici votre ticket | here is your receipt
+gardez le ticket | keep the receipt
+bonne journée | have a nice day / have a good day
+bon rétablissement | get well soon
+prenez soin de vous | take care
+je ne parle pas très bien anglais | I don't speak English very well
+pouvez-vous répéter, s'il vous plaît ? | could you repeat that, please? / can you say that again, please?
+pouvez-vous parler plus lentement ? | could you speak more slowly?
+pouvez-vous l'écrire ? | could you write it down?
+je ne comprends pas | I don't understand
+vous comprenez ? | do you understand?
+montrez-moi où ça fait mal | show me where it hurts
+je vous écoute | I'm listening / go ahead
+qu'est-ce qui vous amène ? | what brings you in today?
+que se passe-t-il ? | what's the problem? / what's wrong?
+comment puis-je vous aider ? | how can I help you?
+vous cherchez quelque chose ? | are you looking for something?
+c'est au fond, à droite | it's at the back, on the right
+c'est derrière le comptoir | it's behind the counter
+c'est sans ordonnance | it's over the counter / you don't need a prescription
+il faut une ordonnance pour ce médicament | you need a prescription for this medicine
+je ne peux pas vous le donner sans ordonnance | I can't give it to you without a prescription
+la pharmacie | the pharmacy / the chemist's
+le pharmacien | the pharmacist
+la pharmacienne | the pharmacist
+le préparateur en pharmacie | the pharmacy technician
+la pharmacie de garde | the on-call pharmacy / the duty pharmacy
+la pharmacie est fermée | the pharmacy is closed
+nous sommes ouverts jusqu'à vingt heures | we're open until 8 pm
+nous fermons à dix-neuf heures trente | we close at 7:30 pm
+nous ouvrons à neuf heures | we open at 9 am
+les horaires d'ouverture | the opening hours
+le dimanche | on Sunday
+la pharmacie de garde la plus proche | the nearest on-call pharmacy
+appelez le 3237 pour la pharmacie de garde | call 3237 to find the on-call pharmacy
+le comptoir | the counter
+la file d'attente | the queue / the line
+c'est à qui ? | who's next?
+c'est à vous | it's your turn / you're next
+veuillez patienter | please wait
+merci de votre patience | thank you for your patience
+désolé pour l'attente | sorry to keep you waiting / sorry for the wait
+je suis à vous dans une minute | I'll be with you in a minute
+un conseil | a piece of advice / advice
+je vous conseille ceci | I recommend this
+c'est très efficace | it's very effective
+c'est le plus vendu | it's the best-seller
+c'est moins cher | it's cheaper
+c'est l'équivalent générique | it's the generic equivalent
+c'est la même chose | it's the same thing
+la boîte de trente comprimés | the box of thirty tablets
+la petite boîte | the small box
+la grande boîte | the big box / the large box
+un flacon | a bottle
+un tube | a tube
+un sachet | a sachet / a packet
+une plaquette | a blister pack / a strip
+voulez-vous une notice en anglais ? | would you like an information leaflet in English?
+lisez bien la notice | read the leaflet carefully
+la notice | the package leaflet / the patient information leaflet
+la date de péremption | the expiry date / the expiration date
+c'est périmé | it's expired / it's out of date
+à conserver au réfrigérateur | keep in the fridge / store in the refrigerator
+à conserver à l'abri de la chaleur | store away from heat
+tenir hors de portée des enfants | keep out of the reach of children
+je vous mets la posologie sur la boîte | I'll write the dosage on the box
+je vous l'écris | I'll write it down for you
+vous avez des questions ? | do you have any questions?
+n'hésitez pas à revenir | don't hesitate to come back / feel free to come back
+si ça ne va pas mieux, revenez nous voir | if it doesn't get better, come back and see us
+je vous fais une facture | I'll give you an invoice
+vous voulez une facture ? | would you like an invoice?
+pour votre assurance | for your insurance
+vous êtes touriste ? | are you a tourist? / are you visiting?
+vous êtes en vacances ? | are you on holiday? / are you on vacation?
+d'où venez-vous ? | where are you from?
+vous restez combien de temps ? | how long are you staying?
+vous logez où ? | where are you staying?
+
+# questions | Questions au patient
+où avez-vous mal ? | where does it hurt?
+depuis quand ? | since when? / how long has this been going on?
+depuis combien de temps avez-vous ces symptômes ? | how long have you had these symptoms?
+avez-vous de la fièvre ? | do you have a fever? / do you have a temperature?
+avez-vous pris votre température ? | have you taken your temperature?
+avez-vous déjà pris quelque chose ? | have you already taken anything?
+qu'avez-vous déjà pris ? | what have you already taken?
+prenez-vous d'autres médicaments ? | are you taking any other medication?
+prenez-vous un traitement ? | are you on any treatment? / are you taking any treatment?
+avez-vous des allergies ? | do you have any allergies?
+êtes-vous allergique à un médicament ? | are you allergic to any medication?
+êtes-vous allergique à la pénicilline ? | are you allergic to penicillin?
+êtes-vous enceinte ? | are you pregnant?
+pourriez-vous être enceinte ? | could you be pregnant?
+allaitez-vous ? | are you breastfeeding?
+avez-vous des problèmes de santé ? | do you have any health problems? / do you have any medical conditions?
+êtes-vous diabétique ? | are you diabetic?
+avez-vous de la tension ? | do you have high blood pressure?
+avez-vous des problèmes cardiaques ? | do you have any heart problems?
+avez-vous des problèmes de reins ? | do you have any kidney problems?
+avez-vous des problèmes de foie ? | do you have any liver problems?
+avez-vous de l'asthme ? | do you have asthma?
+avez-vous un ulcère à l'estomac ? | do you have a stomach ulcer?
+êtes-vous sous anticoagulants ? | are you on blood thinners? / are you taking anticoagulants?
+combien pesez-vous ? | how much do you weigh? / what is your weight?
+combien pèse l'enfant ? | how much does the child weigh?
+quel âge a l'enfant ? | how old is the child?
+c'est la première fois ? | is it the first time? / is this the first time?
+ça vous est déjà arrivé ? | has this happened to you before?
+la douleur est-elle forte ? | is the pain severe?
+sur une échelle de un à dix, combien avez-vous mal ? | on a scale of one to ten, how bad is the pain?
+c'est une douleur constante ? | is the pain constant?
+la douleur va et vient ? | does the pain come and go?
+la douleur irradie-t-elle ? | does the pain spread? / does the pain radiate?
+qu'est-ce qui soulage la douleur ? | what makes the pain better?
+qu'est-ce qui aggrave la douleur ? | what makes the pain worse?
+est-ce que ça vous gratte ? | is it itchy? / does it itch?
+est-ce que ça brûle ? | does it burn?
+est-ce que ça saigne ? | is it bleeding? / does it bleed?
+avez-vous de la toux ? | do you have a cough?
+c'est une toux sèche ou grasse ? | is it a dry cough or a chesty cough? / is it a dry cough or a productive cough?
+crachez-vous ? | are you coughing anything up? / are you bringing up phlegm?
+de quelle couleur sont les crachats ? | what colour is the phlegm? / what color is the mucus?
+avez-vous le nez qui coule ? | do you have a runny nose?
+avez-vous le nez bouché ? | do you have a blocked nose? / do you have a stuffy nose?
+avez-vous mal à la gorge ? | do you have a sore throat?
+avez-vous du mal à avaler ? | do you have trouble swallowing?
+avez-vous du mal à respirer ? | do you have trouble breathing? / are you short of breath?
+avez-vous mal à la poitrine ? | do you have chest pain?
+avez-vous des nausées ? | do you feel sick? / do you have nausea?
+avez-vous vomi ? | have you vomited? / have you been sick?
+avez-vous la diarrhée ? | do you have diarrhoea? / do you have diarrhea?
+combien de fois par jour ? | how many times a day?
+avez-vous du sang dans les selles ? | is there any blood in your stool?
+êtes-vous constipé ? | are you constipated?
+quand êtes-vous allé à la selle pour la dernière fois ? | when did you last have a bowel movement?
+avez-vous mangé quelque chose d'inhabituel ? | have you eaten anything unusual?
+avez-vous voyagé récemment ? | have you travelled recently? / have you traveled recently?
+avez-vous mal en urinant ? | does it hurt when you pee? / does it burn when you urinate?
+urinez-vous souvent ? | do you need to pee often? / are you urinating frequently?
+avez-vous été piqué ? | have you been stung? / have you been bitten?
+avez-vous vu un médecin ? | have you seen a doctor?
+avez-vous consulté un médecin ? | have you consulted a doctor?
+qui est votre médecin traitant ? | who is your GP? / who is your regular doctor?
+avez-vous votre carnet de santé ? | do you have your health record booklet?
+avez-vous votre carte Vitale ? | do you have your Vitale card? / do you have your health insurance card?
+avez-vous une mutuelle ? | do you have top-up insurance? / do you have supplementary health insurance?
+avez-vous une assurance voyage ? | do you have travel insurance?
+avez-vous la carte européenne d'assurance maladie ? | do you have a European Health Insurance Card? / do you have an EHIC?
+quel est votre nom ? | what is your name?
+pouvez-vous épeler votre nom ? | can you spell your name?
+quelle est votre date de naissance ? | what is your date of birth?
+quelle est votre adresse ? | what is your address?
+quel est votre numéro de téléphone ? | what is your phone number?
+comment vous sentez-vous ? | how are you feeling? / how do you feel?
+vous sentez-vous mieux ? | are you feeling better? / do you feel better?
+avez-vous bien dormi ? | did you sleep well?
+dormez-vous bien ? | are you sleeping well?
+mangez-vous normalement ? | are you eating normally?
+buvez-vous assez d'eau ? | are you drinking enough water?
+fumez-vous ? | do you smoke?
+buvez-vous de l'alcool ? | do you drink alcohol?
+combien de cigarettes par jour ? | how many cigarettes a day?
+faites-vous du sport ? | do you exercise? / do you do any sport?
+êtes-vous vacciné ? | are you vaccinated?
+êtes-vous à jour de vos vaccins ? | are your vaccinations up to date?
+quand avez-vous eu votre dernier rappel ? | when did you have your last booster?
+avez-vous déjà eu cette maladie ? | have you had this illness before?
+y a-t-il des antécédents dans votre famille ? | is there any family history? / does it run in your family?
+avez-vous été opéré récemment ? | have you had surgery recently?
+avez-vous perdu du poids ? | have you lost weight?
+avez-vous de l'appétit ? | do you have an appetite? / how is your appetite?
+êtes-vous fatigué ? | are you tired? / do you feel tired?
+avez-vous des vertiges ? | do you feel dizzy? / do you have dizzy spells?
+vous êtes-vous évanoui ? | did you faint? / have you passed out?
+vous êtes-vous cogné la tête ? | did you hit your head? / did you bang your head?
+avez-vous de la fièvre depuis plus de trois jours ? | have you had a fever for more than three days?
+c'est arrivé quand ? | when did it happen?
+comment est-ce arrivé ? | how did it happen?
+ça a commencé comment ? | how did it start?
+c'est apparu brutalement ? | did it come on suddenly?
+c'est de pire en pire ? | is it getting worse?
+ça s'améliore ? | is it getting better?
+avez-vous mal ailleurs ? | does it hurt anywhere else?
+avez-vous d'autres symptômes ? | do you have any other symptoms?
+qu'avez-vous mangé ? | what did you eat?
+quels médicaments prenez-vous habituellement ? | what medication do you usually take?
+avez-vous le nom du médicament ? | do you have the name of the medicine?
+avez-vous la boîte ? | do you have the box?
+pouvez-vous me montrer la boîte ? | can you show me the box?
+c'est quel dosage ? | what strength is it? / what dose is it?
+vous le prenez combien de fois par jour ? | how many times a day do you take it?
+vous prenez la pilule ? | are you on the pill? / do you take the pill?
+quelle est la date de vos dernières règles ? | when was your last period?
+avez-vous eu un rapport non protégé ? | did you have unprotected sex?
+c'était il y a combien d'heures ? | how many hours ago was it?

@@ -1,0 +1,169 @@
+# digestion | Digestion
+j'ai mal au ventre depuis ce matin | I've had a stomach ache since this morning
+j'ai mal digéré | I have indigestion / something didn't agree with me
+l'indigestion | indigestion
+la diarrhée | diarrhoea / diarrhea
+la constipation | constipation
+les nausées | nausea
+les vomissements | vomiting
+les brûlures d'estomac | heartburn
+les remontées acides | acid reflux
+le transit | bowel movements / digestion
+le transit est ralenti | your bowels are sluggish / your digestion is slow
+buvez beaucoup d'eau | drink plenty of water / drink lots of water
+buvez par petites gorgées | drink in small sips / sip slowly
+la réhydratation est essentielle | rehydration is essential
+mangez du riz et des carottes | eat rice and carrots
+évitez les produits laitiers | avoid dairy products
+évitez les plats gras et épicés | avoid fatty and spicy food
+évitez les fruits et légumes crus | avoid raw fruit and vegetables
+mangez des fibres | eat more fibre / eat more fiber
+mangez des pruneaux | eat prunes
+marchez après le repas | go for a walk after meals
+ne vous couchez pas juste après le repas | don't lie down straight after eating
+mangez léger le soir | eat a light dinner
+fractionnez les repas | eat smaller meals more often
+le régime sans résidus | the low-fibre diet / the low-residue diet
+le laxatif doux | the mild laxative / the gentle laxative
+le laxatif osmotique | the osmotic laxative
+le lavement | the enema
+le microlavement | the mini enema
+le charbon actif | activated charcoal
+l'argile | clay / diosmectite
+la levure | yeast / probiotic yeast
+le ralentisseur du transit | the anti-diarrhoeal / the medicine that slows down the bowels
+le spasme | the spasm
+les gaz intestinaux | intestinal gas / wind
+les flatulences | flatulence / wind
+le rot | the burp
+la mauvaise haleine | bad breath
+la colique | the colic
+les coliques du nourrisson | infant colic / baby colic
+le hoquet | hiccups / the hiccups
+le mal des transports | travel sickness / motion sickness
+prenez-le une demi-heure avant le départ | take it half an hour before you leave
+la gueule de bois | a hangover
+le foie fatigué | a sluggish liver / an upset liver
+le vers intestinal | the intestinal worm
+l'oxyure | the pinworm / the threadworm
+toute la famille doit être traitée | the whole family needs to be treated
+renouvelez le traitement dans quinze jours | repeat the treatment in two weeks
+lavez-vous les mains avant de manger | wash your hands before eating
+lavez-vous les mains après être allé aux toilettes | wash your hands after going to the toilet
+si vous avez du sang dans les selles, consultez | if there's blood in your stool, see a doctor
+signes de déshydratation | signs of dehydration
+la bouche sèche, la soif | a dry mouth, thirst
+peu d'urine, foncée | little urine, dark in colour / dark, scanty urine
+chez le nourrisson, la déshydratation est dangereuse | in babies, dehydration is dangerous
+le soluté de réhydratation | the rehydration solution / oral rehydration salts
+un sachet dans deux cents millilitres d'eau | one sachet in two hundred millilitres of water
+donnez-le à la cuillère | give it with a spoon / give it by the spoonful
+les hémorroïdes | haemorrhoids / hemorrhoids / piles
+la crème pour les hémorroïdes | the haemorrhoid cream / the hemorrhoid cream
+la fissure anale | the anal fissure
+les démangeaisons anales | anal itching
+le régime alimentaire | the diet
+le jeûne | fasting
+le repas | the meal
+le petit-déjeuner | breakfast
+le déjeuner | lunch
+le dîner | dinner
+la collation | the snack
+l'eau minérale | mineral water
+l'eau du robinet | tap water
+ne buvez pas l'eau du robinet | don't drink the tap water
+les glaçons | ice cubes
+
+# peau | Peau et soins
+la peau sèche | dry skin
+la peau grasse | oily skin
+la peau mixte | combination skin
+la peau sensible | sensitive skin
+la peau atopique | atopic skin / eczema-prone skin
+la peau irritée | irritated skin
+la peau abîmée | damaged skin
+les rougeurs | redness
+les boutons | spots / pimples
+les points noirs | blackheads
+les cicatrices d'acné | acne scars
+les taches brunes | dark spots / age spots / brown spots
+les rides | wrinkles
+les cernes | dark circles / dark circles under the eyes
+les poches sous les yeux | bags under the eyes / puffy eyes
+la crème hydratante | the moisturiser / the moisturizer / the moisturising cream
+la crème de jour | the day cream
+la crème de nuit | the night cream
+le sérum | the serum
+le contour des yeux | the eye cream
+le démaquillant | the make-up remover
+l'eau micellaire | micellar water
+le nettoyant visage | the facial cleanser / the face wash
+le gel lavant | the cleansing gel / the shower gel
+le savon surgras | the superfatted soap / the gentle soap
+le pain sans savon | the soap-free bar
+l'huile lavante | the cleansing oil / the shower oil
+le baume émollient | the emollient balm
+la crème réparatrice | the repair cream / the healing cream
+la crème cicatrisante | the healing cream / the wound-healing cream
+la crème pour les mains | the hand cream
+le stick à lèvres | the lip balm / the lip salve
+le baume à lèvres | the lip balm
+la crème solaire | sunscreen / sun cream
+l'écran total | sunblock / high-protection sunscreen
+l'indice de protection | the SPF / the sun protection factor
+indice cinquante | SPF fifty / factor fifty
+renouvelez l'application toutes les deux heures | reapply every two hours
+après la baignade | after swimming
+évitez le soleil entre midi et seize heures | avoid the sun between noon and four pm
+l'après-soleil | the after-sun lotion / after-sun
+la crème pour les coups de soleil | the sunburn cream
+l'autobronzant | the self-tanner / the fake tan
+le déodorant | the deodorant
+l'antitranspirant | the antiperspirant
+le dentifrice | the toothpaste
+la brosse à dents | the toothbrush
+le fil dentaire | dental floss
+le maquillage | make-up / makeup
+le parfum | perfume
+sans parfum | fragrance-free / unscented
+hypoallergénique | hypoallergenic
+non comédogène | non-comedogenic / won't clog pores
+testé sous contrôle dermatologique | dermatologically tested
+le dermatologue | the dermatologist
+les produits de parapharmacie | health and beauty products / over-the-counter care products
+la parapharmacie | the health and beauty section / the parapharmacy
+la cosmétique | cosmetics / skincare
+le soin du visage | the facial treatment / face care
+le soin du corps | body care
+l'exfoliant | the exfoliator / the scrub
+le gommage | the scrub / exfoliation
+le masque | the face mask
+le shampooing doux | the mild shampoo / the gentle shampoo
+les cheveux secs | dry hair
+les cheveux gras | greasy hair / oily hair
+la chute de cheveux | hair loss
+le traitement antichute | the hair loss treatment
+les ongles cassants | brittle nails
+le vernis contre les mycoses | the antifungal nail lacquer
+la crème antifongique | the antifungal cream
+la poudre antifongique | the antifungal powder
+la crème à la cortisone | the hydrocortisone cream / the steroid cream
+la crème apaisante | the soothing cream
+la crème contre les démangeaisons | the anti-itch cream
+la crème contre les piqûres d'insectes | the insect bite cream
+le traitement des verrues | the wart treatment
+le traitement par le froid | the freeze treatment / cryotherapy
+le coricide | the corn plaster / the corn remover
+la pierre ponce | the pumice stone
+la râpe pour les pieds | the foot file
+la crème pour les pieds | the foot cream
+les pieds secs | dry feet
+les talons crevassés | cracked heels
+la transpiration excessive | excessive sweating
+la mauvaise odeur des pieds | smelly feet / foot odour
+appliquez matin et soir sur la zone | apply morning and evening to the area
+ne grattez pas | don't scratch
+ne percez pas les boutons | don't squeeze your spots / don't pop your pimples
+ne percez pas l'ampoule | don't burst the blister / don't pop the blister
+gardez la peau propre et sèche | keep the skin clean and dry
+séchez bien entre les orteils | dry well between your toes

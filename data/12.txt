@@ -1,0 +1,198 @@
+# sommeil | Sommeil, stress et moral
+le sommeil | sleep
+je dors mal | I sleep badly / I'm not sleeping well
+je me réveille la nuit | I wake up during the night
+je me réveille trop tôt | I wake up too early
+j'ai du mal à m'endormir | I have trouble falling asleep / I can't get to sleep
+le somnifère | the sleeping pill
+la mélatonine | melatonin
+la valériane | valerian
+la passiflore | passionflower
+la tisane pour dormir | the sleep tea / the bedtime herbal tea
+évitez les écrans avant de dormir | avoid screens before bed
+couchez-vous à heure fixe | go to bed at the same time every night
+évitez le café après seize heures | avoid coffee after 4 pm
+la sieste | the nap
+le ronflement | snoring
+il ronfle | he snores
+le stress | stress
+je suis stressé au travail | I'm stressed at work
+l'anxiété | anxiety
+l'angoisse | anxiety / anguish
+la crise de panique | the panic attack
+le burn-out | burnout
+l'épuisement | exhaustion
+la déprime | low mood / the blues
+la tristesse | sadness
+le moral | morale / mood / spirits
+je n'ai pas le moral | I'm feeling low / I'm feeling down
+la santé mentale | mental health
+le soutien psychologique | psychological support / counselling
+parler à quelqu'un | to talk to someone
+ça peut vous aider d'en parler | it can help to talk about it
+il existe une ligne d'écoute | there's a helpline / there's a support line
+le numéro national de prévention du suicide | the national suicide prevention line
+la relaxation | relaxation
+la respiration profonde | deep breathing
+la méditation | meditation
+la cohérence cardiaque | paced breathing / heart coherence breathing
+le magnésium contre le stress | magnesium for stress
+la fatigue chronique | chronic fatigue
+le coup de fatigue | a dip in energy / feeling run down
+la baisse de forme | feeling run down / low energy
+les vitamines pour la fatigue | vitamins for tiredness / vitamins for energy
+une cure de vitamines | a course of vitamins
+le surmenage | overwork / burnout
+l'addiction | addiction
+le tabac | tobacco / smoking
+arrêter de fumer | to stop smoking / to quit smoking
+je veux arrêter de fumer | I want to stop smoking / I want to quit smoking
+la cigarette électronique | the e-cigarette / the vape
+le sevrage tabagique | quitting smoking / smoking cessation
+l'envie de fumer | the craving / the urge to smoke
+l'alcool | alcohol
+la consommation d'alcool | alcohol consumption / drinking
+la drogue | drugs / a drug
+le cannabis | cannabis
+la mémoire | memory
+les troubles de la mémoire | memory problems
+la concentration | concentration
+j'ai du mal à me concentrer | I find it hard to concentrate
+les examens approchent | exams are coming up
+le décalage horaire | jet lag
+
+# prevention | Prévention et hygiène
+lavez-vous les mains | wash your hands
+lavez-vous les mains régulièrement | wash your hands regularly
+toussez dans votre coude | cough into your elbow
+utilisez des mouchoirs jetables | use disposable tissues
+jetez le mouchoir après usage | throw the tissue away after use
+évitez de toucher votre visage | avoid touching your face
+aérez votre logement | air your home / ventilate your home
+le gel hydroalcoolique | hand sanitiser / hand sanitizer
+l'hygiène | hygiene
+l'hygiène des mains | hand hygiene
+l'hygiène bucco-dentaire | oral hygiene / dental hygiene
+brossez-vous les dents deux fois par jour | brush your teeth twice a day
+pendant deux minutes | for two minutes
+une alimentation équilibrée | a balanced diet
+mangez cinq fruits et légumes par jour | eat five portions of fruit and vegetables a day / eat five a day
+réduisez le sel | cut down on salt / eat less salt
+réduisez le sucre | cut down on sugar / eat less sugar
+évitez les aliments gras | avoid fatty foods
+buvez un litre et demi d'eau par jour | drink one and a half litres of water a day
+l'activité physique | physical activity / exercise
+marchez trente minutes par jour | walk for thirty minutes a day
+faites du sport régulièrement | exercise regularly
+le surpoids | being overweight
+perdre du poids | to lose weight
+prendre du poids | to put on weight / to gain weight
+le régime | the diet
+je suis au régime | I'm on a diet
+le poids de forme | the healthy weight / the ideal weight
+la protection solaire | sun protection
+protégez-vous du soleil | protect yourself from the sun
+portez un chapeau | wear a hat
+buvez souvent en cas de chaleur | drink often when it's hot
+la canicule | the heatwave
+restez au frais | stay cool / keep cool
+le répulsif anti-moustiques | the mosquito repellent / insect repellent
+la moustiquaire | the mosquito net
+appliquez le répulsif sur la peau découverte | apply the repellent to exposed skin
+le répulsif contre les tiques | the tick repellent
+vérifiez qu'il n'y a pas de tiques après une promenade en forêt | check for ticks after a walk in the woods
+la trousse à pharmacie de voyage | the travel first-aid kit / the travel medical kit
+pour votre voyage, prenez | for your trip, take
+les médicaments en cabine | medication in your hand luggage / medicine in your carry-on
+gardez l'ordonnance avec vous | keep the prescription with you
+le certificat pour transporter des médicaments | the certificate to travel with medication
+l'assurance rapatriement | repatriation insurance
+le dépistage régulier | regular screening
+le bilan annuel | the annual check-up
+le contrôle de la tension | the blood pressure check
+le préservatif protège des IST | condoms protect against STIs
+la sécurité routière | road safety
+les médicaments et la conduite | medicines and driving
+le pictogramme sur la boîte | the warning symbol on the box / the pictogram on the box
+le triangle jaune signifie : soyez prudent | the yellow triangle means: be careful
+le triangle rouge signifie : ne conduisez pas | the red triangle means: do not drive
+l'environnement | the environment
+la pollution | pollution
+le pollen | pollen
+le pic de pollen | the high pollen count / the pollen peak
+les acariens | dust mites
+les animaux domestiques | pets
+le poil de chat | cat hair / cat dander
+
+# naturel | Santé naturelle et compléments
+les compléments alimentaires | food supplements / dietary supplements
+les vitamines | vitamins
+la vitamine B | vitamin B
+la vitamine B12 | vitamin B12
+les minéraux | minerals
+les oligo-éléments | trace elements
+le multivitamines | the multivitamin
+la gelée royale | royal jelly
+la propolis | propolis
+le miel | honey
+le ginseng | ginseng
+la spiruline | spirulina
+l'échinacée | echinacea
+le curcuma | turmeric
+le gingembre | ginger
+l'arnica | arnica
+le gel d'arnica | arnica gel
+l'aloe vera | aloe vera
+le calendula | calendula
+la camomille | chamomile
+la menthe poivrée | peppermint
+l'eucalyptus | eucalyptus
+la lavande | lavender
+le thym | thyme
+l'huile essentielle de tea tree | tea tree oil
+l'huile essentielle de lavande | lavender essential oil
+les huiles essentielles sont déconseillées aux femmes enceintes | essential oils aren't recommended for pregnant women
+pas d'huiles essentielles chez l'enfant de moins de six ans | no essential oils for children under six
+à diluer dans une huile végétale | dilute in a vegetable oil / dilute in a carrier oil
+l'huile d'amande douce | sweet almond oil
+l'huile d'argan | argan oil
+le beurre de karité | shea butter
+l'huile de coco | coconut oil
+l'eau thermale | thermal spring water
+la cure thermale | the spa treatment / the thermal cure
+les plantes médicinales | medicinal plants / medicinal herbs
+la tisane | the herbal tea
+l'infusion | the infusion / the herbal tea
+la décoction | the decoction
+la teinture mère | the mother tincture
+les granules | homeopathic pills / homeopathic pellets
+cinq granules trois fois par jour | five pellets three times a day
+la levure de bière | brewer's yeast
+le collagène | collagen
+le charbon végétal | charcoal / activated charcoal
+les fibres | fibre / fiber
+le psyllium | psyllium
+les probiotiques | probiotics
+les prébiotiques | prebiotics
+la canneberge | cranberry
+la canneberge contre la cystite | cranberry for cystitis
+le millepertuis | St John's wort
+le millepertuis interagit avec beaucoup de médicaments | St John's wort interacts with many medicines
+naturel ne veut pas dire sans danger | natural doesn't mean safe
+demandez conseil avant de prendre des plantes | ask for advice before taking herbal remedies
+la nutrition | nutrition
+les protéines | protein / proteins
+les glucides | carbohydrates / carbs
+les lipides | fats / lipids
+les calories | calories
+le sucre | sugar
+le sel | salt
+les produits laitiers | dairy products
+les produits bio | organic products
+le substitut de repas | the meal replacement
+la boisson énergisante | the energy drink
+la boisson pour le sport | the sports drink
+la nutrition entérale | enteral nutrition / tube feeding
+les compléments nutritionnels oraux | oral nutritional supplements / nutritional drinks
+la dénutrition | malnutrition / undernutrition
+les personnes âgées qui mangent peu | older people who don't eat much

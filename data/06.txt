@@ -1,0 +1,190 @@
+# chroniques | Maladies chroniques
+la maladie chronique | the chronic illness / the long-term condition
+le diabète | diabetes
+le diabète de type un | type one diabetes / type 1 diabetes
+le diabète de type deux | type two diabetes / type 2 diabetes
+je suis diabétique | I'm diabetic / I have diabetes
+l'hypoglycémie | hypoglycaemia / hypoglycemia / low blood sugar
+l'hyperglycémie | hyperglycaemia / hyperglycemia / high blood sugar
+faites-vous une glycémie | check your blood sugar
+mesurer sa glycémie | to check one's blood sugar / to measure blood glucose
+le lecteur de glycémie | the blood glucose meter / the glucometer
+les bandelettes | the test strips
+les lancettes | the lancets
+l'autopiqueur | the lancing device / the finger pricker
+le capteur de glucose | the glucose sensor
+le stylo à insuline | the insulin pen
+les aiguilles pour stylo | the pen needles
+l'hypertension | high blood pressure / hypertension
+l'hypotension | low blood pressure / hypotension
+j'ai de la tension | I have high blood pressure
+le tensiomètre | the blood pressure monitor
+prendre la tension | to take someone's blood pressure / to check blood pressure
+votre tension est de treize sur huit | your blood pressure is 130 over 80
+l'insuffisance cardiaque | heart failure
+l'insuffisance rénale | kidney failure / renal failure
+l'insuffisance respiratoire | respiratory failure
+l'arythmie | arrhythmia / irregular heartbeat
+la fibrillation auriculaire | atrial fibrillation / AF
+l'angine de poitrine | angina
+le pacemaker | the pacemaker
+le cholestérol élevé | high cholesterol
+l'asthme | asthma
+je suis asthmatique | I'm asthmatic / I have asthma
+la BPCO | COPD / chronic obstructive pulmonary disease
+l'apnée du sommeil | sleep apnoea / sleep apnea
+la thyroïde | the thyroid
+l'hypothyroïdie | hypothyroidism / an underactive thyroid
+l'hyperthyroïdie | hyperthyroidism / an overactive thyroid
+l'ostéoporose | osteoporosis
+la polyarthrite rhumatoïde | rheumatoid arthritis
+la maladie de Crohn | Crohn's disease
+la rectocolite hémorragique | ulcerative colitis
+le syndrome de l'intestin irritable | irritable bowel syndrome / IBS
+l'endométriose | endometriosis
+le cancer | cancer
+la tumeur | the tumour / the tumor
+la chimiothérapie | chemotherapy
+la radiothérapie | radiotherapy / radiation therapy
+la maladie d'Alzheimer | Alzheimer's disease
+la maladie de Parkinson | Parkinson's disease
+la sclérose en plaques | multiple sclerosis / MS
+la démence | dementia
+la dépression | depression
+le trouble bipolaire | bipolar disorder
+la schizophrénie | schizophrenia
+l'obésité | obesity
+le surpoids | being overweight / excess weight
+l'hépatite C | hepatitis C
+la mucoviscidose | cystic fibrosis
+la drépanocytose | sickle cell disease
+l'hémophilie | haemophilia / hemophilia
+le glaucome | glaucoma
+la cataracte | cataracts / a cataract
+la DMLA | macular degeneration / AMD
+le handicap | the disability
+la personne handicapée | the disabled person / the person with a disability
+la personne âgée | the elderly person / the older person
+la maison de retraite | the care home / the nursing home / the retirement home
+l'aide à domicile | the home help / the home carer
+l'aidant | the carer / the caregiver
+l'affection de longue durée | a long-term illness / a chronic condition (ALD)
+pris en charge à cent pour cent | fully covered / covered at one hundred percent
+le pilulier | the pill organiser / the pill box / the pill organizer
+la préparation des doses à administrer | blister packing / dose packaging
+l'observance | adherence / compliance
+oublier de prendre ses médicaments | to forget to take one's medication
+le suivi | the follow-up / the monitoring
+le bilan de médication | the medication review
+l'entretien pharmaceutique | the pharmacist consultation / the medication consultation
+
+# orl | Rhume, toux et gorge
+le nez qui coule | a runny nose
+le nez bouché | a blocked nose / a stuffy nose
+mouchez-vous régulièrement | blow your nose regularly
+lavez-vous le nez avec du sérum physiologique | rinse your nose with saline / clean your nose with saline solution
+le lavage de nez | nasal irrigation / a nasal wash
+le mouche-bébé | the nasal aspirator
+les mouchoirs en papier | tissues / paper tissues
+le spray d'eau de mer | the seawater nasal spray
+le spray décongestionnant | the decongestant nasal spray
+pas plus de cinq jours | no more than five days
+les pastilles pour la gorge | throat lozenges / throat sweets
+le spray pour la gorge | the throat spray
+gargarisez-vous à l'eau salée | gargle with salt water
+buvez des boissons chaudes | drink hot drinks
+du miel et du citron | honey and lemon
+une tisane | a herbal tea
+reposez-vous | get some rest / rest
+restez au chaud | keep warm / stay warm
+aérez la pièce | air the room / let some fresh air in
+humidifiez l'air | humidify the air
+surélevez la tête du lit | raise the head of the bed / prop your head up
+pour une toux sèche | for a dry cough
+pour une toux grasse | for a chesty cough / for a productive cough
+ce sirop calme la toux | this syrup soothes the cough
+ce sirop fluidifie les sécrétions | this syrup loosens the mucus / this syrup thins the phlegm
+ne prenez pas un antitussif pour une toux grasse | don't take a cough suppressant for a chesty cough
+la toux qui empêche de dormir | a cough that keeps you awake
+la toux persistante | a persistent cough / a lingering cough
+si la toux dure plus d'une semaine, consultez | if the cough lasts more than a week, see a doctor
+si vous crachez du sang, consultez immédiatement | if you cough up blood, see a doctor immediately
+l'angine nécessite peut-être des antibiotiques | tonsillitis may need antibiotics
+le test rapide d'angine | the rapid strep test
+on peut faire le test ici | we can do the test here
+le test est négatif | the test is negative
+le test est positif | the test is positive
+c'est une angine virale | it's a viral throat infection
+les antibiotiques ne servent à rien contre un virus | antibiotics don't work against viruses
+les antibiotiques, c'est pas automatique | antibiotics aren't always the answer
+la fièvre est une défense de l'organisme | fever is the body's defence / fever is the body's way of fighting infection
+les ganglions gonflés | swollen glands / swollen lymph nodes
+les amygdales enflées | swollen tonsils
+les points blancs dans la gorge | white spots in the throat
+la voix enrouée | a hoarse voice
+l'extinction de voix | loss of voice
+reposez votre voix | rest your voice
+évitez de parler | try not to talk
+les sinus douloureux | painful sinuses / sinus pain
+la pression dans le visage | pressure in the face / facial pressure
+l'inhalation | steam inhalation / an inhalation
+faites des inhalations | do some steam inhalations
+le baume pectoral | the chest rub / the vapour rub
+le thermomètre | the thermometer
+le thermomètre frontal | the forehead thermometer
+le thermomètre auriculaire | the ear thermometer
+le thermomètre digital | the digital thermometer
+trente-huit cinq | thirty-eight point five / 38.5
+la fièvre au-dessus de trente-huit | a temperature above thirty-eight degrees
+si la fièvre dépasse trois jours, consultez | if the fever lasts more than three days, see a doctor
+le masque | the mask / the face mask
+portez un masque | wear a mask
+le masque chirurgical | the surgical mask
+le masque FFP2 | the FFP2 mask / the N95 mask
+le test antigénique | the antigen test / the rapid test / the lateral flow test
+l'autotest | the self-test / the home test
+
+# douleur | Douleur et fièvre
+la douleur aiguë | sharp pain / acute pain
+la douleur sourde | dull pain / a dull ache
+la douleur lancinante | throbbing pain / shooting pain
+la douleur chronique | chronic pain
+la douleur légère | mild pain
+la douleur modérée | moderate pain
+la douleur intense | severe pain / intense pain
+une douleur comme une brûlure | a burning pain
+une douleur comme un coup de poignard | a stabbing pain
+la douleur au repos | pain at rest
+la douleur à l'effort | pain on exertion / pain when you move
+la douleur nocturne | pain at night
+pour la douleur et la fièvre, du paracétamol | for pain and fever, paracetamol
+un gramme de paracétamol | one gram of paracetamol
+le paracétamol en premier | paracetamol first / start with paracetamol
+pas d'ibuprofène si vous avez de la fièvre avec une infection | no ibuprofen if you have a fever with an infection
+pas d'ibuprofène pour la varicelle | no ibuprofen for chickenpox
+pas d'aspirine pour les enfants | no aspirin for children
+pas d'aspirine si vous avez mal à l'estomac | no aspirin if you have stomach problems
+évitez l'ibuprofène si vous êtes sous anticoagulants | avoid ibuprofen if you're on blood thinners
+alternez paracétamol et ibuprofène | alternate paracetamol and ibuprofen
+appliquez du froid | apply something cold / use an ice pack
+appliquez de la chaleur | apply heat / use a heat pad
+la poche de glace | the ice pack
+la bouillotte | the hot-water bottle
+le patch chauffant | the heat patch
+le gel anti-inflammatoire | the anti-inflammatory gel
+le gel au froid | the cooling gel
+la crème chauffante | the warming cream / the heat rub
+massez doucement | massage gently
+mettez la jambe en hauteur | put your leg up / raise your leg / elevate your leg
+le repos | rest
+évitez de forcer | don't strain it / take it easy
+la fièvre chez l'enfant | fever in children
+déshabillez l'enfant | undress the child / take off the child's extra layers
+faites-le boire souvent | give him plenty to drink / make him drink often
+découvrez-le | don't cover him up too much / don't bundle him up
+le bain frais n'est plus recommandé | cold baths are no longer recommended
+la convulsion fébrile | the febrile seizure / the febrile convulsion
+consultez si l'enfant a moins de trois mois | see a doctor if the baby is under three months old
+la fièvre baisse | the fever is going down
+la fièvre monte | the fever is going up / the temperature is rising
+la fièvre est tombée | the fever has gone down / the fever has broken
