@@ -20,6 +20,6 @@ for t in themes:   # fréquence 1 (premier tiers), 2, 3
 p = os.path.join(root, 'index.html'); s = open(p, encoding='utf-8').read()
 total = sum(len(t['cards']) for t in themes)
 s = re.sub(r'const DATA = \[.*?\];\n', lambda m: 'const DATA = ' + json.dumps(themes, ensure_ascii=False, separators=(',', ':')) + ';\n', s, count=1, flags=re.S)
-s = re.sub(r'(<p class="lead">L\'anglais de la pharmacie et de la santé : )[\d  ]+', lambda m: m.group(1) + f'{total:,}'.replace(',', ' '), s)
+s = re.sub(r'(<p class="lead">L\'anglais de la pharmacie et de la santé : )[^<]*?( mots)', lambda m: m.group(1) + f'{total:,}'.replace(',', '\u202f') + m.group(2), s)
 open(p, 'w', encoding='utf-8').write(s)
 print(total, 'cartes,', len(themes), 'thèmes')
