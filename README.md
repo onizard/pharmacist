@@ -6,4 +6,4 @@ Même fonctionnement qu'Aleph : mode classique (je savais / je ne savais pas) ou
 
 À ouvrir dans Chrome sur Android : https://onizard.github.io/pharmacist/
 
-Les cartes sont dans `data/*.txt` (une ligne = `français | anglais`, variantes séparées par ` / `). Après modification : `python3 tools/build.py`.
+Les cartes sont dans `data/*.txt` (une ligne = `français | anglais` ; si plusieurs traductions sont séparées par ` / `, seule la première est gardée). Après modification : `python3 tools/build.py`.

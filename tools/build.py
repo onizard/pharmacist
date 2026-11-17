@@ -13,7 +13,7 @@ for f in sorted(glob.glob(os.path.join(root, 'data', '*.txt'))):
             themes.append({'id': 'ph-' + i, 'nom': n, 'cards': []}); continue
         fr, en = [x.strip() for x in ln.split('|')]
         if fr.lower() in seen: continue          # doublon : on garde la première
-        seen.add(fr.lower()); themes[-1]['cards'].append((fr, en))
+        seen.add(fr.lower()); themes[-1]['cards'].append((fr, en.split(' / ')[0].strip()))  # une seule traduction par carte
 for t in themes:   # fréquence 1 (premier tiers), 2, 3
     n = len(t['cards'])
     t['cards'] = [[fr, en, '', '', 1 + 3 * i // n] for i, (fr, en) in enumerate(t['cards'])]
