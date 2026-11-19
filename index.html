@@ -302,6 +302,8 @@ function normEn(s) {
     .replace(/\b(that|what|there|here)s\b/g, '$1 is').replace(/\b(we|you|they)ve\b/g, '$1 have');
   // « I've had » est souvent entendu « I had » : l'auxiliaire have/has devant un participe ne compte pas
   s = s.replace(/\b(have|has) (had|been|got|gotten|taken|eaten|done|seen|lost|made|put|cut|hurt|broken|fallen|forgotten|run|felt|[a-z]+ed)\b/g, '$2');
+  // « I'd advise » est souvent entendu « I advise », « I'll check » → « I check » : would/will après le sujet ne comptent pas
+  s = s.replace(/\b(i|you|we|they|he|she|it) (would|will)\b/g, '$1');
   s = s.replace(/'s\b/g, '').replace(/[?!.,:;"«»…'\-–—\/]/g, ' ')
     .replace(/\b(okay|ok)\b/g, 'ok').replace(/\b(the|a|an)\b/g, ' ')
     .replace(/\b[a-z]+\b/g, w => (w in NUMW ? String(NUMW[w]) : w))
