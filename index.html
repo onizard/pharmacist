@@ -512,9 +512,6 @@ function listen(lang, ms, check, longMs = 15000, quietMs = 2500) {
       r.onerror = e => {
         if (IOS && !spoke && e.error !== 'aborted') $('dHeard').textContent = 'micro : ' + e.error;
         lastErr = e.error;
-        // téléphone qui refuse deux écoutes à la fois : on lâche le micro Bluetooth et on n'essaie plus
-        if (e.error === 'audio-capture' && btStream) { btStream.getTracks().forEach(t => t.stop()); btStream = null; st.btOff = true; save(); return; }
-       
         if (['not-allowed', 'service-not-allowed', 'language-not-supported', 'network', 'audio-capture'].includes(e.error)) finish({ error: e.error });
       };
       // la reconnaissance s'arrête d'elle-même après une pause : on la relance tout de suite
@@ -782,14 +779,6 @@ $('start').onclick = async () => {
   // demander le micro tout de suite (une seule fois)
   // (pas sur iPhone : ouvrir le micro ici bloque ensuite la voix ; la reconnaissance le demandera elle-même)
   if (!IOS) try { if (navigator.mediaDevices) { const s = await navigator.mediaDevices.getUserMedia({ audio: true }); s.getTracks().forEach(t => t.stop()); } } catch (e) {}
-  // Android : si un kit / des oreillettes Bluetooth sont connectés, on garde leur micro ouvert pendant la séance,
-  // ce qui oblige le téléphone à basculer dessus (sinon la reconnaissance écoute avec le micro du téléphone).
-  // Pas de Bluetooth : rien ne change, micro du téléphone.
-  if (!IOS && !st.btOff) try {
-    const devs = await navigator.mediaDevices.enumerateDevices();
-    const bt = devs.find(d => d.kind === 'audioinput' && /bluetooth|headset|hands-?free|casque|kit|car|buds|airpods/i.test(d.label));
-    if (bt) btStream = await navigator.mediaDevices.getUserMedia({ audio: { deviceId: { exact: bt.deviceId } } });
-  } catch (e) { btStream = null; }
   try { wake = await navigator.wakeLock.request('screen'); } catch (e) {}
   beep('listen');
   S = { on: true, paused: false, count: 0, good: 0, bad: 0, len: st.prefs.len, cur: null, lastId: null };
